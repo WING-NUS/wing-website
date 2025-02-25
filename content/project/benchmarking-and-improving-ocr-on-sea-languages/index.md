@@ -18,8 +18,8 @@ featured: false
 #  caption: 'Image credit: Jesse Gozali Prabawa'
 #  focal_point: Right
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: "https://drive.google.com/file/d/15eCK5lC8BnFBVt97xW5n70lYnPI9oBo8/view?usp=sharing"
+url_code: "https://github.com/jasonqiu212/ocr-benchmarking-on-sea-languages"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
