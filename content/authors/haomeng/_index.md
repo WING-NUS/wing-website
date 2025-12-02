@@ -7,13 +7,13 @@ first_name: Haomeng
 last_name: Lu
 
 # Date for sorting
-date: '2025-01'
+date: '2026-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: UROP Student (Jan '25)
+role: FYP Student (Jan '26)
 
 # Organizations/Affiliations
 organizations:
@@ -21,12 +21,12 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: UROP student
+bio: I am an FYP student studying automatic scientific research and scientific knowledge representation.
 
 interests:
-  - Artificial Intelligence
-  - Natural Language Processing
-  - Audio information retrieval
+  - LLM-based Agent Systems
+  - Representation Learning
+  - LLM agent security
 
 
 
