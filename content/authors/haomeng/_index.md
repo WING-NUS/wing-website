@@ -62,4 +62,4 @@ user_groups:
 #  - Researchers
 ---
 
-Lu Haomeng is a UROP student joing our group in 2024. 
+Lu Haomeng is an FYP student joined our group in 2024.
