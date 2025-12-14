@@ -13,7 +13,7 @@ It was wonderful engaging with brilliant attendees from around the world and sha
 
 {{< figure src="jiaying-neurips-2.jpg" alt="Jiaying at NeurIPS 2025" >}}
 
-Bryan Low (the organiser of the NeurIPS 2025 networking session for our School of Computing) also notes the unique "3C"s attributes of our schook:
+Bryan Low (the organiser of the NeurIPS 2025 networking session for our School of Computing) also notes the unique "3C"s attributes of our school:
 
 > (1) We provide environment & resources to champion bold initiatives & tackle grand challenges. As a result, we can go beyond publications to produce research breakthroughs, societal impact & thought leadership.
 >
