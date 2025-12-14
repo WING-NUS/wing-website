@@ -8,13 +8,13 @@ sections:
   - block: contact
     content:
       title: "Contact WING"
-      text: "Interested in joining our research group?  NUS students should check out the corresponding reseaarch project or dissertation options (UROP, FYP or MComp).  
+      text: |
+        Interested in joining our research group? NUS students should check out the relevant research project or dissertation options (UROP, FYP or MComp).
 
-      <div style="border:2px solid rgb(219, 69, 179); background-color: #f5faff; padding:1em; margin-bottom:1em; border-radius:8px;">
-        <strong>News:</strong> <a href="/post/25-12-14-postdoc-ad/" style="color:#205295; text-decoration:underline;"><b>NEWS</b></a> &mdash; We are seeking postdocs with strong IR and NLP backgrounds for initiatives in LLM Alignment and AI4Science. <a href="/post/25-12-14-postdoc-ad/">Read more &rarr;</a>
-      </div>
+        **News:** [WING is looking for postdocs!](/post/25-12-14-postdoc-ad/)  
+        We are seeking researchers with strong IR and NLP backgrounds for initiatives in LLM Alignment and AI4Science. [Read more &rarr;](/post/25-12-14-postdoc-ad/)
 
-      External parties are sometimes enlisted on help towards meaningful research projects, but are only attached to our group for a minimum length of one year.  All requests to join the group must mention 'WING' to be considered."
+        Occasionally, external parties are invited to contribute to research projects, but a minimum attachment period of one year is required. All requests to join the group must mention 'WING' to be considered.
       
       email: wing@comp.nus.edu.sg
       phone: +65 6516 1885
