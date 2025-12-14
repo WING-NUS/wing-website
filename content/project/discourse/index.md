@@ -1,13 +1,13 @@
 ---
 title: Discourse and LLMs
 
-summary: We measure and enhance LLMs' discourse understanding and reasoning faithfulness.
-abstract: "While large language models have significantly enhanced the effectiveness of discourse relation classifications, it remains unclear whether their comprehension is faithful and reliable. We provide DiSQ, a new method for evaluating the faithfulness of understanding discourse based on question answering. We first employ in-context learning to annotate the reasoning for discourse comprehension, based on the connections among key events within the discourse. Following this, DiSQ interrogates the model with a sequence of questions to assess its grasp of core event relations, its resilience to counterfactual queries, as well as its consistency to its previous responses. We then evaluate language models with different architectural designs using DiSQ, finding: (1) DiSQ presents a significant challenge for all models, with the top-performing GPT model attaining only 41% of the ideal performance in PDTB; (2) DiSQ is robust to domain shifts and paraphrase variations; (3) Open-source models generally lag behind their closed-source GPT counterparts, with notable exceptions being those enhanced with chat and code/math features; (4) Our analysis validates the effectiveness of explicitly signalled discourse connectives, the role of contextual information, and the benefits of using historical QA data."
+summary: We measure and enhance LLMs’ discourse understanding, focusing on faithfulness and mechanistic interpretability.
+abstract: "Large language models (LLMs) can now generate coherent text, but can they truly understand language? In this project, we explore discourse understanding, a foundational objective in natural language processing (NLP). In the first part, we refine the notion of understanding as faithful behavior under a series of Socratic-style questions (appeared at ACL 2024). In the second part, we take a causal approach to mechanistically interpret the key components of transformer models in discourse processing (appeared at EMNLP 2025)."
 
-tags: ["CL", "Discourse", "NLP", "LLM", "Computational Linguistics"]
-year: 2024
+tags: ["CL", "Discourse", "NLP", "LLM", "Computational Linguistics", "Mechanistic Interpretability", "Circuit Discovery", "Transformer Models"]
+year: 2025
 
-date: '2024-08-11' # ACL 24's conference date. 
+date: '2025-11-04' # EMNLP 25's conference date. 
 
 all_day: true
 
@@ -31,4 +31,6 @@ url_code: 'https://github.com/YisongMiao/DiSQ-Score'
 authors: ["yisong", "min"]
 
 ---
-Yisong, a PhD student at WING, began his research journey by tackling the fundamental question: Do language models truly understand text? Over time, he refined this broad inquiry into the specific challenge of discourse understanding. In his recent work, advised by Prof. Min, they introduced a more precise framework for measuring discourse comprehension from three discourse-specific perspectives, while also contributing insights into broader LLM challenges such as logical consistency. Currently, Yisong and Min are delving deeper into the mechanisms behind how models process and understand discourse.
+Large language models (LLMs) can now generate coherent text, but can they truly understand language? In this project, we explore discourse understanding, a foundational objective in natural language processing (NLP). In the first part, we refine the notion of understanding as faithful behavior under a series of Socratic-style questions (appeared at ACL 2024). In the second part, we take a causal approach to mechanistically interpret the key components of transformer models in discourse processing (appeared at EMNLP 2025).
+
+Yisong, a PhD student at WING, began his research journey by tackling the fundamental question: Do language models truly understand text? Over time, he refined this broad inquiry into the specific challenge of discourse understanding. In his recent work, advised by Prof. Min, they introduced a more precise framework for measuring discourse comprehension from three discourse-specific perspectives, while also contributing insights into broader LLM challenges such as logical consistency. Currently, Yisong and Min are delving deeper into the mechanisms behind how models process and understand discourse, and they discovered that sparse computational graphs, termed as "discursive circuits", control how models process discourse relations.

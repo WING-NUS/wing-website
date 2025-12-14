@@ -75,4 +75,4 @@ user_groups:
 #  - Researchers
 ---
 
-Yisong is a fifth-year PhD student under the supervision of Prof. Min-Yen Kan. His research interests include discourse and lexical semantics. He [composes emojis](https://yisong.me/publications/ELCo@LREC-COLING24.pdf) to represent lexical compositions and [asks questions](https://yisong.me/publications/acl24-DiSQ-CR.pdf) to evaluate language models' faithful understanding of discourse relations.
+Yisong is a fifth-year PhD student under the supervision of Prof. Min-Yen Kan. His research interests include discourse and lexical semantics. He [composes emojis](https://yisong.me/publications/ELCo@LREC-COLING24.pdf) to represent lexical compositions, [asks questions](https://yisong.me/publications/acl24-DiSQ-CR.pdf) to measure language models (LMs)' faithful understanding of discourse relations, and [discovers transformer circuits](https://yisong.me/publications/emnlp25-DC-CR.pdf) controlling how LMs process discourse relations.

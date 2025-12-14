@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Haomeng Lu
+title: Kai Zhe Choong
 
 # Full Name (for SEO)
-first_name: Haomeng
-last_name: Lu
+first_name: Kai Zhe
+last_name: Choong
 
 # Date for sorting
 date: '2026-01'
@@ -13,23 +13,20 @@ date: '2026-01'
 superuser: false
 
 # Role/position
-role: FYP Student (Jan '26)
+role: UROP Student (Jan'26)
 
 # Organizations/Affiliations
 organizations:
   - name: National University of Singapore, School of Computing
-    url: 'http://www.comp.nus.edu.sg'
+    url: "http://www.comp.nus.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an FYP student studying automatic scientific research and scientific knowledge representation.
+bio: UROP Student
 
 interests:
-  - LLM-based Agent Systems
-  - Representation Learning
-  - LLM agent security
-
-
-
+  - LLM Interpretability
+  - Natural Language Processing
+  
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -38,11 +35,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: e1155567@u.nus.edu
+    link: "mailto:choongkaizhe@u.nus.edu"
   - icon: github
     icon_pack: fab
-    link: https://github.com/FZFZFZZ
-  
+    link: https://github.com/cedarglass
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/choong-kai-zhe
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'e1155567@u.nus.edu'
+email: "choongkaizhe@u.nus.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -62,4 +61,4 @@ user_groups:
 #  - Researchers
 ---
 
-Lu Haomeng is an FYP student joined our group in 2024.
+Kai Zhe is an undergraduate student in Computer Science doing a UROP research project under the supervision of Prof. Min-Yen Kan and PhD student Yisong Miao. His research focuses on tracing the internal mechanisms of how LMs understand natural language.
