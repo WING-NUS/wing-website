@@ -1,7 +1,7 @@
 ---
 title: "Jiaying represents iGyro project at NeurIPS 2025 in San Diego"
 date: 2025-12-10
-authors: [jiaying]]
+authors: [jiaying]
 ---
 
 Jiaying helped to represent WING's interest in the iGyro information resilience project at the NUS Computing networking session recently at NeurIPS 2025.
