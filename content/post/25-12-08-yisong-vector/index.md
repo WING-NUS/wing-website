@@ -1,6 +1,6 @@
 ---
 title: "Yisong featured as a Vector Institute Intern"
-date: 2025-12-8
+date: 2025-12-08
 authors: [yisong]
 ---
 
