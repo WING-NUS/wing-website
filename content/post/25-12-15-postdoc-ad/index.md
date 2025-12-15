@@ -4,13 +4,11 @@ date: 2025-12-15
 authors: [min]
 ---
 
-The Web, Information Retrieval, Natural Language Processing Group (WING) at the National University of Singapore is seeking postdocs for immediate integration in 2026 with suitable IR and NLP background to lead initiatives in LLM Alignment, Fact-Checking and AI4Science.
+The [Web, Information Retrieval, and Natural Language Processing](https://wing.comp.nus.edu.sg) (WING) group at the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/) is actively seeking postdoctoral scholars to start in 2026 across three cutting-edge research areas: AI for Science, LLM Socioethical Alignment, and Fact Checking. WING is led by Associate Professor [Kan Min-Yen](https://www.comp.nus.edu.sg/~kanmy/).
 
 <!--more-->
 
 <p align="center"><strong>Postdoctoral Positions Available at WING Lab, NUS (2026)</strong></p>
-
-The [Web, Information Retrieval, and Natural Language Processing](https://wing.comp.nus.edu.sg) (WING) group at the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/) is actively seeking postdoctoral scholars to start in 2026 across three cutting-edge research areas: AI for Science, LLM Socioethical Alignment, and Fact Checking. WING is led by Associate Professor [Kan Min-Yen](https://www.comp.nus.edu.sg/~kanmy/).
 
 ## Research Areas
 
@@ -58,4 +56,4 @@ Due to the high volume of applications, only shortlisted candidates will be cont
 
 For more information about WING's research activities and recent publications, visit our lab website.
 
-_ChatGPT 5.2 was used to create the image and Claude 4 was used to refine the advertisement text_
+_ChatGPT 5.2 and Nano Banana was used to create the image. Claude 4 was used to refine the advertisement text_
