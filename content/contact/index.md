@@ -11,8 +11,10 @@ sections:
       text: |
         Interested in joining our research group? NUS students should check out the relevant research project or dissertation options (UROP, FYP or MComp).
 
-        **News:** [WING is looking for postdocs!](/post/25-12-14-postdoc-ad/)  
+        {{% alert title="News" color="info" %}}
+        [WING is looking for postdocs!](/post/25-12-14-postdoc-ad/)<br>
         We are seeking researchers with strong IR and NLP backgrounds for initiatives in LLM Alignment and AI4Science. [Read more &rarr;](/post/25-12-14-postdoc-ad/)
+        {{% /alert %}}
 
         Occasionally, external parties are invited to contribute to research projects, but a minimum attachment period of one year is required. All requests to join the group must mention 'WING' to be considered.
       
