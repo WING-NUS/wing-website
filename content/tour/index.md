@@ -9,7 +9,8 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the group
-        content: Welcome to our Web IR and NLP Group (WING)! We are looking for good postdocs and doctoral students.
+        content: |
+          Welcome to our Web IR and NLP Group (WING)! We are looking for good postdocs and doctoral students.
         align: center
         background:
           image:
@@ -22,7 +23,9 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: /post/25-12-14-postdoc-ad/
+          url: /contact/
+          content: |
+            📣 [Alert! We are looking for postdoctoral scholars in the areas of AI4Science, LLM Alignment and Fact-Checking!](/post/26-12-14-postdoc-ad/)
       - title: ACL'24 @ Thailand
         content: "Current WING and alumni at ACL '24 in Thailand!"
         align: center
