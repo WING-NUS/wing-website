@@ -8,7 +8,7 @@ The Web, Information Retrieval, Natural Language Processing Group (WING) at the 
 
 <!--more-->
 
-# Postdoctoral Positions Available at WING Lab, NUS (2026)
+<p align="center"><strong>Postdoctoral Positions Available at WING Lab, NUS (2026)</strong></p>
 
 The [Web, Information Retrieval, and Natural Language Processing](https://wing.comp.nus.edu.sg) (WING) group at the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/) is actively seeking postdoctoral scholars to start in 2026 across three cutting-edge research areas: AI for Science, LLM Socioethical Alignment, and Fact Checking. WING is led by Associate Professor [Kan Min-Yen](https://www.comp.nus.edu.sg/~kanmy/).
 
@@ -50,10 +50,12 @@ Shortlisted applicants will participate in a comprehensive evaluation process in
 
 ## Application Process
 
-To apply, please send an email to knmnyn@nus.edu.sg with the subject line "[WING Postdoc]", clearly specifying which postdoctoral topic(s) you are applying for.
+To apply, please send an email to [knmnyn@nus.edu.sg](mailto:knmnyn@nus.edu.sg) with the subject line "[WING Postdoc]", clearly specifying which postdoctoral topic(s) you are applying for.
 
 Reference letters should be sent directly to the same email address by your referees under separate cover.
 
 Due to the high volume of applications, only shortlisted candidates will be contacted.
 
 For more information about WING's research activities and recent publications, visit our lab website.
+
+_ChatGPT 5.2 was used to create the image and Claude 4 was used to refine the advertisement text_
