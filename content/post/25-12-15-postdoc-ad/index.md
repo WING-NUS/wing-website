@@ -1,6 +1,6 @@
 ---
 title: "WING is looking for a few good post doctoral scholars!"
-date: 2026-12-14
+date: 2025-12-15
 authors: [min]
 ---
 

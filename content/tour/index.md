@@ -24,8 +24,8 @@ sections:
           icon_pack: fas
           text: Join Us
           url: /contact/
-          content: |
-            📣 [Alert! We are looking for postdoctoral scholars in the areas of AI4Science, LLM Alignment and Fact-Checking!](/post/26-12-14-postdoc-ad/)
+        content: |
+          📣 [Alert! We are looking for postdoctoral scholars in the areas of AI4Science, LLM Alignment and Fact-Checking!](/post/26-12-14-postdoc-ad/)
       - title: ACL'24 @ Thailand
         content: "Current WING and alumni at ACL '24 in Thailand!"
         align: center

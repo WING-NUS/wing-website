@@ -11,12 +11,12 @@ sections:
       text: |
         <div style="border:1px solid #2196f3; background-color:#e3f2fd; border-radius:6px; padding:16px; margin:16px 0;">
           <strong>News:</strong>
-          <a href="/post/26-12-14-postdoc-ad/">WING is looking for postdocs!</a><br>
-          We are seeking researchers with strong IR and NLP backgrounds for initiatives in LLM Alignment and AI4Science.
-          <a href="/post/26-12-14-postdoc-ad/">Read more &rarr;</a>
+          <a href="/post/25-12-14-postdoc-ad/">WING is looking for postdocs!</a><br>
+          We are seeking researchers with strong IR and NLP backgrounds for initiatives in AI4Science, LLM Alignment and Fact-Checking.
+          <a href="/post/25-12-14-postdoc-ad/">Read more &rarr;</a>
         </div>
 
-        Interested in joining our research group? NUS students should check out the relevant research project or dissertation options (UROP, FYP or MComp).
+        Interested in joining our research group? NUS students should check out the relevant research project or dissertation options (UROP, FYP, Masters, or Ph.D).
 
         Occasionally, external parties are invited to contribute to research projects, but a minimum attachment period of one year is required. All requests to join the group must mention 'WING' to be considered.
       
