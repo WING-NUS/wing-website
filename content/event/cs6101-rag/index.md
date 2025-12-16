@@ -12,7 +12,7 @@ location: Online
 #   postcode: '117417'
 #   country: Singapore
 
-event: 'CS6101 in AY25/26 Semester I (T2510) - Retrieval Augmented Generation'
+summary: 'CS6101 in AY25/26 Semester I (T2510) - Retrieval Augmented Generation'
 abstract: 'WING.NUS’s CS6101 lab section is conducted as a public course, with class participants nominating themselves and presenting the materials and leading the discussion. In Semester I of AY2025/2026, our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. We focus on the topics of Retrieval Augmented Generation (RAG).  This is a joint venture with Prof. Haitao Yu of Univ. of Tsukuba.'
 
 # Talk start and end times.
