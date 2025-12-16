@@ -30,6 +30,7 @@ sections:
           - Graduate Students
           - Undergraduate Students
           - Visitors / Interns
+          - Faculty Collaborators
       sort_by: Params.date
       sort_ascending: true
     design:
