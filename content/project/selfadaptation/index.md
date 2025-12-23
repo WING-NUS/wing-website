@@ -52,7 +52,7 @@ In this project, we aim to build the next generation of FM systems that can cont
 
 Our findings so far have offered a foundation for building foundation model agents that improve through interaction, feedback, and structure-aware test-time methods—without reliance on additional gradient-based training.
 
-**🔥 News**: We are expanding our studies towards multiple directions. Please review our work above. If you have a strong interest in the topics listed and a solid background in mathematics, programming, and research, we encourage you to join us!
+**🔥 News**: We are expanding our studies towards multiple directions. Please review our work above. If you have a strong interest in the topics listed and a solid background in mathematics and programming, and optionally in research, come to join us!
 
 
 
