@@ -1,10 +1,10 @@
 ---
-title: "WING Members Present at NUS Computing's inaugural AI-X: Industry Day"
+title: "WING Members Present at NUS Computing's Inaugural AI-X: Industry Day"
 date: 2025-11-18
 authors: [chaoming, yisong, yajing]
 ---
 
-Chao Ming Huang, Yisong Miao, and Yajing Yang from WING shared their research at the first-ever AI-X: Industry Day hosted by NUS Computing. Organised in collaboration with IMDA's Technical Sharing Session. Our members are delighted to have the opportunity to present their work to a wider audience from CS / IS departments, other faculties across NUS, as well as industry leaders.
+Chao Ming Huang, Yisong Miao, and Yajing Yang from WING shared their research at the inaugural AI-X: Industry Day hosted by NUS Computing, organised in collaboration with IMDA's Technical Sharing Session. Our members are delighted to have the opportunity to present their work to a wider audience from CS / IS departments, other faculties across NUS, as well as industry leaders.
 
 Chao Ming (right in the photo) presented his research on "Understanding Code-Mixed Queries in Multilingual Dense Retrieval", a FYP project jointly mentored by Prof. Min-Yen Kan and PhD student Tongyao Zhu. 
 
