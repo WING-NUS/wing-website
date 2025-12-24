@@ -14,4 +14,6 @@ Congratulations to WING members, Yisong Miao, Min-Yen Kan, and their collaborato
 
 Our group is thrilled to announce that we have received an Area Chair Award at ACL 2024 for our paper, *"Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models' Understanding of Discourse Relations."* This work, led by our group members Yisong Miao and A/P Min-Yen Kan, in collaboration with Hongfu Liu, Dr. Wenqiang Lei, and Dr. Nancy Chen, introduces a novel scoring framework that leverages LLMs in a Socratic style, testing models on targeted questions, counterfactuals, and converse questions.
 
+![ACL 2024 Senior Area Chair Award (Discourse and Pragmatics track)](sac_award_acl2024.jpg)
+
 Learn more about this [paper](https://github.com/YisongMiao/DiSQ-Score).
