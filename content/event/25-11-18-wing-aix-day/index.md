@@ -27,6 +27,10 @@ Yajing (left in the photo) presented her EMNLP paper \"KAHAN: Knowledge-Augmente
 
 Read more about the event from NUS SoC's LinkedIn post [here](https://www.linkedin.com/posts/nuscomputing_nuscomputing-nus-aixindustryday-activity-7396482973052751873-c1Vo?utm_source=share&utm_medium=member_desktop&rcm=ACoAABijOb8BHMad1JqOvXjFx3JFexfrLGRKs_I)."
 
+date: '2025-11-18'
+publishDate: '2025-11-18'
+all_day: true
+
 projects: ["discourse","datatales"]
 ---
 
