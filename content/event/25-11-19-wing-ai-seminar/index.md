@@ -1,7 +1,29 @@
 ---
-title: "WING Members Present at the NUS AI Seminar at the Computer Science Department"
-date: 2025-11-19
+title: "WING Members Present at NUS AI Seminar at the Computer Science Department"
+event: WING at NUS AI Seminar at the Computer Science Department
+
+location: "NUS Computing Seminar Room 21"
+address:
+  street: 13 Computing Drive
+  city: Singapore
+  region: Singapore
+  postcode: '117417'
+  country: Singapore
 authors: [yisong, yajing, long]
+tags: ["NLP", "Discourse", "Financial Processing", "Multi-Agent System", "Self-Improving", "Evolution", "LLM", "VLM", "Machine Learning"]
+
+date: '2025-11-19'
+publishDate: '2025-11-19'
+all_day: true
+
+projects: ["discourse", "datatales", "selfadaptation"]
+
+# Is this a featured talk? (true/false)
+featured: true
+
+summary: "WING at NUS AI Seminar at the Computer Science Department"
+
+date: '2025-11-19'
 ---
 
 NUS AI Seminar at the Computer Science Department is a new initiative to bring together AI researchers to share their latest research findings and insights. There are eight speakers in the Fall 2025 semester, usually hosted on Wednesday afternoons at Seminar Room 21. WING members are excited to present their research alongside other presenters from NUS Computing, MIT, and UCLA. We appreciate [Prof. Lee Wee Sun](https://www.comp.nus.edu.sg/~leews/) and PhD student [Guoji Fu](https://scholar.google.com/citations?hl=en&user=a8CLpC0AAAAJ&view_op=list_works&sortby=pubdate) for hosting the seminar.
