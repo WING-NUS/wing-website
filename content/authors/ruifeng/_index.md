@@ -13,7 +13,7 @@ date: '2025-08'
 superuser: false
 
 # Role/position
-role: ISC Student (Aug '25)
+role: "ISC Student (Aug '25).  Report: Automated Detection of Logical Contradictions in Peer Reviews Using Large Language Models"
 
 # Organizations/Affiliations
 organizations:

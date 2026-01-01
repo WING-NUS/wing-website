@@ -13,7 +13,7 @@ date: '2025-01'
 superuser: false
 
 # Role/position
-role: UROP Student (Jan '25)
+role: "UROP Student (Jan '25) Thesis: LitePruner: A Lightweight Realtime Token Pruner before Large Language Models<BR/> <font color=red><strong>VIP 10K Awardee</strong></font>"
 
 # Organizations/Affiliations
 organizations:
