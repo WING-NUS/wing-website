@@ -7,13 +7,13 @@ first_name: Swee
 last_name: Tan
 
 # Date for sorting
-date: ''
+date: '2012-05-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Research Assistant (May '12)
 
 # Organizations/Affiliations
 organizations:
@@ -28,5 +28,5 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Undergraduate / Intern Alumni
+  - Staff Alumni
 ---
