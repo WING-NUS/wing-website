@@ -56,7 +56,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Undergraduate / Intern Alumni
+#  - Undergraduate Students
 #  - Researchers
 ---
 Sahej is a second-year Computer Engineering undergraduate, currently pursuing a UROP project under Prof. Min-Yen Kan and Dr. Barid Xi Ai. His research focuses on making large language models more accessible to non-English speakers. Sahej is passionate about leveraging AI to solve real-world problems and drive meaningful impact.
