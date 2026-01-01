@@ -20,7 +20,7 @@ sections:
 
         Occasionally, external parties are invited to contribute to research projects, but a minimum attachment period of one year is required. All requests to join the group must mention 'WING' to be considered.
       
-      email: wing@comp.nus.edu.sg
+      email: knmnyn@nus.edu.sg
       phone: +65 6516 1885
       address:
         street: 11 Research Link
