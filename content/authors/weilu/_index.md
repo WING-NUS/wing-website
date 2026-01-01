@@ -13,7 +13,7 @@ date: '2004-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '04)
+role: "UROP Alumnus (Fall '04).  Thesis: Javascript Categorization"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '04). 
+bio: UROP Alumnus (Fall '04). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
