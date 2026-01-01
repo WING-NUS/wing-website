@@ -7,13 +7,13 @@ first_name: Jiecheng
 last_name: Jiang
 
 # Date for sorting
-date: '2025-08-02'
+date: '2026-01-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student (Aug '25)
+role: Master Student (Jan '26)
 
 # Organizations/Affiliations
 organizations:
