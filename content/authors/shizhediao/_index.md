@@ -13,7 +13,7 @@ date: '2018-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '18)
+role: "Internship Alumnus (Fall '18) Project: Dialogue Systems"
 
 # Organizations/Affiliations
 organizations:

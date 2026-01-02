@@ -13,7 +13,7 @@ date: '2017-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '17)
+role: "FYP Alumnus (Fall '17) Thesis: An Intelligent Dashboard for MOOC Instructor Intervention"
 
 # Organizations/Affiliations
 organizations:

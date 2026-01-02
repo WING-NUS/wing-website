@@ -13,7 +13,7 @@ date: '2023-09'
 superuser: false
 
 # Role/position
-role: CSC Visiting Student (Sep '23)
+role: "CSC Postgraduate Visiting Student (Sep '23) Project: Vision Language Models"
 
 # Organizations/Affiliations
 organizations:
