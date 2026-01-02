@@ -13,7 +13,7 @@ date: '2003-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '03)
+role: "FYP Alumnus (Fall '03).  Thesis: Analysis of SMS Input Efficiency"
 
 # Organizations/Affiliations
 organizations:
