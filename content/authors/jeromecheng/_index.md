@@ -13,7 +13,7 @@ date: '2014-00'
 superuser: false
 
 # Role/position
-role: "FYP Alumnus (Fall '14), Research Assistant ('15). Project: Collating Corporate Social Networking Profiles"
+role: "FYP Alumnus (Fall '14), Research Assistant ('15). Thesis: Collating Corporate Social Networking Profiles"
 
 # Organizations/Affiliations
 organizations:
