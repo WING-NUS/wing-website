@@ -7,13 +7,13 @@ first_name: Dongyuan
 last_name: Lu
 
 # Date for sorting
-date: ''
+date: '2012-12-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Alumnus
+role: "Postdoctoral Alumnus (Dec '12 - Jul '14) Social Media Topics"
 
 # Organizations/Affiliations
 organizations:
