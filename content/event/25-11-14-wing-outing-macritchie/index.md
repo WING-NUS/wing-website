@@ -8,7 +8,7 @@ address:
   city: Singapore
   country: Singapore
 authors: [yajing, zhiyu, zhouying, herun, fanxiao, sahej, chaoming, taha, glenda, min, michalis, yisong]
-tags: ["Outing"]
+tags: ["Group Outing"]
 
 # Is this a featured talk? (true/false)
 featured: true
