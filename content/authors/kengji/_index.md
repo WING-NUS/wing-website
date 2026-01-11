@@ -13,7 +13,7 @@ date: '2021-08'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '21)
+role: "FYP Alumnus (Aug '21) Thesis: Analysing Vision+Language Neural Networks"
 
 # Organizations/Affiliations
 organizations:

@@ -13,7 +13,7 @@ date: '2012-05-01'
 superuser: false
 
 # Role/position
-role: Research Assistant (May '12)
+role: "Research Assistant (May - Aug '12). Second Language Learning Topics."
 
 # Organizations/Affiliations
 organizations:

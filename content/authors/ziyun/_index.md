@@ -13,7 +13,7 @@ date: '2021-08'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '21) <BR/> <font color=red><strong>OUR Awardee</strong></font>
+role: "FYP Alumnus (Aug '21) Thesis: Bridging Emoji Mashup & Lexical Composition<BR/> <font color=red><strong>OUR Awardee</strong></font>"
 
 # Organizations/Affiliations
 organizations:

@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Dongyuan Lu
+title: Yiqi Wang
 
 # Full Name (for SEO)
-first_name: Dongyuan
-last_name: Lu
+first_name: Yiqi
+last_name: Wang
 
 # Date for sorting
-date: '2012-12-01'
+date: '2026-01-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Postdoctoral Alumnus (Dec '12 - Jul '14) Social Media Topics"
+role: Masters Student (Jan '26)
 
 # Organizations/Affiliations
 organizations:
@@ -21,45 +21,33 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: WING alumni; former postdoc
+bio: Masters Student Jan 2026 Intake
 
 interests:
-  - Natural Language Processing
-  - Information Retrieval
-  - Online Social Networks
+  - LLM Memory
+  - Agentic RAG
+  - Reinforcement Learning
 
-# education:
-#  courses:
-#    - course: PhD in Computer Science
-#      institution: Columbia University
-#      year: 2002
-#    - course: MS in Computer Science
-#      institution: Columbia University
-#      year: 2000
-#    - course: BSc in Computer Science
-#      institution: Columbia University
-#      year: 1996
+education:
+  courses:
+    - course: MComp in Computer Science
+      institution: National University of Singapore
+      year: 2025-Now
+    - course: B.Eng. in Electronic Information Engineering
+      institution: University of Electronic Science and Technology of China
+      year: 2021-2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: house
+  - icon: envelope
     icon_pack: fas
-    link: https://dblp.org/pid/73/8382.html
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:kanmy@comp.nus.edu.sg'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/knmnyn
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/citations?user=aNVcd3EAAAAJ
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/knmnyn
+    link: 'e1538209@u.nus.edu'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/YiqiWang128
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'kanmy@comp.nus.edu.sg'
+email: 'e1538209@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,6 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Staff Alumni
+  - Graduate Students
 #  - Researchers
 ---
+
+Yiqi Wang is an M.S. student in the School of Computing at the National University of Singapore, currently supervised by Prof. Min-Yen Kan. His work is driven by the goal of enhancing LLMs' retrieval and memory capabilities through reinforcement learning. Specifically, he is working on projects related to Agentic RAG. Beyond this main focus, he also maintains an interest in recommender systems. Feel free to reach out to him for discussions or collaboration.

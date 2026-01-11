@@ -13,7 +13,7 @@ date: '2024-05'
 superuser: false
 
 # Role/position
-role: Remote Intern (May '24)
+role: "Remote Intern (May - Dec '24) Project: Language Annotation in English-Bengali Code-Mixed Sentences"
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Undergraduate / Intern Alumni
-# - Visitors / Interns
+#  - Visitors / Interns
 #  - Researchers
 ---
 
