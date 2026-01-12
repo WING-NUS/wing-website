@@ -28,7 +28,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides:
 
-authors: ["Joeran Beel", "Moritz Baumgart", "min", "haomeng", "ruifeng", "nura-tamton"]
+authors: ["joeran", "Moritz Baumgart", "min", "haomeng", "ruifeng", "nura-tamton"]
 
 ---
 Our collaboration with Joeran Beel and Moritz Baumgart of ISG Siegen originated from Joeran's sabbatical visit with WING in Oct 2024.  Moritz, a talented undergraduate student at University of Siegen, joined us as a research assistant, working remotely which coordinated with his advisor here in NUS.  
