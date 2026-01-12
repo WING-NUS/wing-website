@@ -46,12 +46,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Our group social event in Jul 2024
-        content: "We had a fun BBQ at Yajing's condo!"
+      - title: Our group social event in Nov 2025
+        content: "We had a hike at Macritchie Reservoir!"
         align: center
         background:
           image:
-            filename: yajings.jpg
+            filename: macritchie.jpeg
             filters:
               brightness: 0.7
           position: center
