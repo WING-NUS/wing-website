@@ -2,8 +2,8 @@
 title: "Evaluating Sakana's AI Scientist for Autonomous Research: Wishful Thinking
   or an Emerging Reality Towards 'Artificial Research Intelligence' (ARI)?"
 authors:
-- Joeran Beel
-- Min-Yen Kan
+- joeran
+- min
 - Moritz Baumgart
 date: '2025-01-01'
 publishDate: '2025-03-23T08:36:39.880500Z'

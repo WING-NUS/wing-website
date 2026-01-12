@@ -19,11 +19,10 @@ all_day: true
 
 authors:
 - barid
-- Xinyuan Lu
-- Liangming Pan
-- Tianyi Zhu
-- Sahej Agarwal
-- Mahardika Krisna Ihsani
+- xinyuan
+- liangming
+- sahej
+- mkrisnai
 - min
 
 ---
