@@ -4,7 +4,7 @@ date: 2026-01-27
 authors: [min]
 ---
 
-Min gave two invited keynotes at AAAI 2026 workshops on 26 and 27 January. Both talks are now available to watch.
+Min gave two invited keynotes at AAAI 2026 workshops on 26 and 27 January, entitled "The Research Manifold" and "Top 5 trends to watch in the future of IR research (and why they are irrelevant)". Both talks are now available to watch.
 
 <!--more-->
 
@@ -16,7 +16,7 @@ Imagine research as a complex, multidimensional vector space where human researc
 
 [Watch the keynote](https://soc-n.us/270126-research-manifold-yt) (workshop page with video).
 
-- [Get the slides for the talk](https://soc-n.us/270126-research-manifold-slides)
+- [Get the slides for the talk](https://soc-n.us/270126-research-manifold)
 - [AI for Research Workshop homepage](https://ai4research-workshop.github.io)
 
 ## **27 Jan — Top 5 trends to watch in the future of IR research (and why they are irrelevant)**  
@@ -26,7 +26,7 @@ What are the likely trends in the future of information retrieval for 2026?  I d
 
 [Watch the keynote](https://soc-n.us/270127-top-five-ir-yt) (YouTube).
 
-- [Get the slides for the talk](https://soc-n.us/270127-top-five-ir-slides)
+- [Get the slides for the talk](https://soc-n.us/270127-top-five-ir)
 - [Frontier IR Workshop homepage](https://frontier-ir-workshop.github.io/)
 
 For other talks, [see other WING conference presentations](https://www.youtube.com/playlist?list=PLPz6aBuUR-JMoiaiVWNOU8zdcNZaOFLx3) on our group's YouTube playlist.
