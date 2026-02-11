@@ -1,6 +1,6 @@
 ---
 title: "WING 2026 Spring Outing at Clarke Quay"
-event: CSSH Seminar
+event: WING Outing
 
 location: "Clarke Quay"
 address:
