@@ -22,16 +22,16 @@ featured: false
 summary: "AAAI 2026 is coming to Singapore! We are hosting a lab tour for visitors to see our new research and visit NUS Computing."
 ---
 
-AAAI 2026 is held in Singapore from January 20 to January 27. Some of our group members are excited to travel to the conference site (at Expo) to communicate research. In conjunction with our regular group meeting on Friday, January 23, we are delighted to invite AAAI participants to visit our lab and experience the NUS Computing environment.
+AAAI 2026 has been held in Singapore from January 20 to January 27. Some of our group members are excited to travel to the conference site (at Expo) to communicate research. In conjunction with our regular group meeting on Friday, January 23, we are delighted to invite AAAI participants to visit our lab and experience the NUS Computing environment.
 
-With our visitors, this group meeting has a special agenda:
+With our visitors, this group meeting had a special agenda:
 
 [Minzhi Li](https://yocodeyo.github.io) from WING NUS gave a presentation to debrief her 2025 internship experience. 
 
 
 [Dr. Lu Gan](https://www.gesis.org/en/institute/about-us/staff/person/Lu.Gan) (from [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home)) gave a presentation about an AAAI paper from their team, titled "GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning". 
 
-Finally, there will be a round of self-introductions for all WING members as well as the visitors to socialize and discuss research.
+Finally, we had around of self-introductions for all WING members as well as the visitors to socialize and discuss research.
 
 _Below is a gallery of the seminar, photo credit to Sahaj, Yisong, and Min!_
 
