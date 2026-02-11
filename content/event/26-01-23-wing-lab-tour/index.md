@@ -14,7 +14,7 @@ tags: ["AAAI", "Lab Tour"]
 
 date: '2026-01-23'
 publishDate: '2026-01-23'
-all_day: false
+all_day: true
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -31,7 +31,7 @@ With our visitors, this group meeting had a special agenda:
 
 [Dr. Lu Gan](https://www.gesis.org/en/institute/about-us/staff/person/Lu.Gan) (from [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home)) gave a presentation about an AAAI paper from their team, titled "GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning" (available [here](https://arxiv.org/abs/2511.09411)). 
 
-Finally, we had around of self-introductions for all WING members as well as the visitors to socialize and discuss research.
+Finally, we had a round of self-introductions for all WING members as well as the visitors to socialize and discuss research.
 
 _Below is a gallery of the lab tour, photo credit to Sahaj, Yisong, and Min!_
 
