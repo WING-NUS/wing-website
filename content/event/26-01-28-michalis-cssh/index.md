@@ -14,7 +14,7 @@ tags: ["CSSH", "Digital Libraries", "Digital Humanities"]
 
 date: '2026-01-28'
 publishDate: '2026-01-28'
-all_day: false
+all_day: true
 
 # Is this a featured talk? (true/false)
 featured: false
