@@ -9,7 +9,7 @@ address:
   region: ''
   postcode: '117417'
   country: Singapore
-authors: [min, yisong, jiahao, zihang, noahcai, haomeng, sahajpreet, ruiwen, tongyao, jiecheng, zhouying, minzhi, glenda, kaizhe, yiqi] # we should make sure to use a person's alias if their profile has been created. 
+authors: [min, yisong, jiahao, zihang, noahcai, haomeng, sahajpreet, ruiwen, tongyao, jiecheng, zhouying, minzhi, glenda, kaizhe, yiqi, chaoming] # we should make sure to use a person's alias if their profile has been created. 
 tags: ["AAAI", "Lab Tour"]
 
 date: '2026-01-23'
