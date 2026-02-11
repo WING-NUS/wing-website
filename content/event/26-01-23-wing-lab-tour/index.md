@@ -29,13 +29,11 @@ With our visitors, this group meeting had a special agenda:
 [Minzhi Li](https://yocodeyo.github.io) from WING NUS gave a presentation to debrief her 2025 internship experience. 
 
 
-[Dr. Lu Gan](https://www.gesis.org/en/institute/about-us/staff/person/Lu.Gan) (from [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home)) gave a presentation about an AAAI paper from their team, titled "GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning". 
+[Dr. Lu Gan](https://www.gesis.org/en/institute/about-us/staff/person/Lu.Gan) (from [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home)) gave a presentation about an AAAI paper from their team, titled "GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning" (available [here](https://arxiv.org/abs/2511.09411)). 
 
 Finally, we had around of self-introductions for all WING members as well as the visitors to socialize and discuss research.
 
 _Below is a gallery of the seminar, photo credit to Sahaj, Yisong, and Min!_
-
-{{< figure src="featured.png" alt="AAAI 2026 participants visiting WING lab" >}}
 
 {{< figure src="lab-tour-1.jpg" alt="WING lab tour group discussion" >}}
 
@@ -44,3 +42,5 @@ _Below is a gallery of the seminar, photo credit to Sahaj, Yisong, and Min!_
 {{< figure src="lab-tour-3.jpg" alt="Participants exploring the WING lab space" >}}
 
 {{< figure src="lab-tour-4.jpg" alt="Group photo from the WING lab tour" >}}
+
+{{< figure src="featured.png" alt="AAAI 2026 participants visiting WING lab" >}}
