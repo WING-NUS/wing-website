@@ -22,7 +22,7 @@ featured: false
 summary: "AAAI 2026 is coming to Singapore! We are hosting a lab tour for visitors to see our new research and visit NUS Computing."
 ---
 
-AAAI 2026 has been held in Singapore from January 20 to January 27. Some of our group members are excited to travel to the conference site (at Expo) to communicate research. In conjunction with our regular group meeting on Friday, January 23, we are delighted to invite AAAI participants to visit our lab and experience the NUS Computing environment.
+AAAI 2026 has been held in Singapore from January 20 to January 27. Some of our group members are excited to travel to the conference site (at Expo) to communicate research. In conjunction with our regular group meeting on Friday, January 23, we are delighted to invite AAAI participants to visit our WING lab and experience the NUS Computing environment.
 
 With our visitors, this group meeting had a special agenda:
 
@@ -33,7 +33,7 @@ With our visitors, this group meeting had a special agenda:
 
 Finally, we had around of self-introductions for all WING members as well as the visitors to socialize and discuss research.
 
-_Below is a gallery of the seminar, photo credit to Sahaj, Yisong, and Min!_
+_Below is a gallery of the lab tour, photo credit to Sahaj, Yisong, and Min!_
 
 {{< figure src="lab-tour-1.jpg" alt="WING lab tour group discussion" >}}
 
