@@ -24,7 +24,7 @@ summary: "WING members enjoyed a spring outing at Clarke Quay on January 23, 202
 
 WING members were excited to have a spring outing at Clarke Quay on January 23, 2026. For this outing, we scheduled it at the beginning of the semester to help new members better cohere with the group. 
 
-We enjoyed both the beautiful river view and the pizza! We were happy to see the return of our alumni, especially [Hengchang](https://wing.comp.nus.edu.sg/author/hengchang-hu/), [Victor](https://wing.comp.nus.edu.sg/author/chuang-li/), and [Ibrahim Taha Aksu](https://wing.comp.nus.edu.sg/author/ibrahim-taha-aksu/), as well as our collaborator, Yunshan. We especially thank Hengchang (a WING PhD alumnus) for his generous donation of the pizza (and other items on the bill as well)!
+We enjoyed both the beautiful river view and the pizza! We were happy to see the return of our alumni, especially [Hengchang](https://wing.comp.nus.edu.sg/author/hengchang-hu/), [Victor](https://wing.comp.nus.edu.sg/author/chuang-li/), and [Taha](https://wing.comp.nus.edu.sg/author/ibrahim-taha-aksu/), as well as our collaborator, Yunshan. We especially thank Hengchang (a WING PhD alumnus) for his generous donation of the pizza (and other items on the bill as well)!
 
 _Below is a gallery of the outing, photo credit to Yajing, Glenda, and Yisong!_
 
