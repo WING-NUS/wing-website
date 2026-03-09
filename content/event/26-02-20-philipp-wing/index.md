@@ -14,7 +14,7 @@ tags: ["AI Overload", "AI Governance", "Scholarly Document Processing", "GESIS"]
 
 date: '2026-02-20'
 publishDate: '2026-02-20'
-all_day: false
+all_day: true
 
 # Is this a featured talk? (true/false)
 featured: false
