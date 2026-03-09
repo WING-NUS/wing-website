@@ -2,7 +2,7 @@
 title: "Philipp Mayr Visits WING: AI Overload and Scholarly Document Processing"
 event: WING Group Meeting
 
-location: "AS6-05-10, Meeting Room 6"
+location: "AS6-05-21, Meeting Room 6"
 address:
   street: 13 Computing Drive, Singapore 117417
   city: Singapore
