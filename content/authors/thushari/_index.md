@@ -13,7 +13,7 @@ date: '2024-07'
 superuser: false
 
 # Role/position
-role: SRI Intern (Jul '24)
+role: "SRI Intern (Jul '24) Drug–Protein Interaction Project"
 
 # Organizations/Affiliations
 organizations:

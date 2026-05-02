@@ -24,15 +24,17 @@ organizations:
 bio: Master Student January 2025 Intake
 
 interests:
-  - AI/ML
-  - LLMs/RAGs
+  - Machine Learning
+  - Natural Language Processing (NLP)
+  - Retrieval Augmented Generation (RAG)
+  - Vision Language Models (VLMs)
 
 education:
   courses:
     - course: MComp in Artificial Intelligence
       institution: National University of Singapore
-      year: 2025-Now
-    - course: BSc(Hons) in Computer Science (Artificial Intelligence)
+      year: 2025-Present
+    - course: BSc (Hons) in Computer Science (Artificial Intelligence)
       institution: Heriot Watt University
       year: 2021-2024
 
@@ -65,4 +67,4 @@ user_groups:
   - Graduate Students
 #  - Researchers
 ---
-Nura is a M.Comp student in School of Computing at National University of Singapore. She is currently under the supervision of Prof. Min-Yen Kan. Her research interest primarily lies on LLMs and RAGs. She is working on evaluating and improving the AI Scientist as a reproducibility assistant. Feel free to contact Nura for discussions.
+Nura is a M.Comp student in School of Computing at National University of Singapore. She is currently under the supervision of Prof. Min-Yen Kan. Her research interest primarily lies in Generative Modelling. She is currently exploring various methods to repurpose the AI Scientist to act as a reproducibility auditor. Feel free to contact Nura for any discussions.

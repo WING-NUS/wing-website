@@ -13,7 +13,7 @@ date: '2017-00'
 superuser: false
 
 # Role/position
-role: "Internship Alumnus (Fall '17) Thesis: A Web Based Dashboard for MOOC Instructors"
+role: "Internship Alumnus (Fall '17) Thesis: Snippets Generation for MOOC Forums"
 
 # Organizations/Affiliations
 organizations:

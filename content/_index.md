@@ -14,7 +14,7 @@ sections:
 #        The <strong>Web, Information Retrieval / Natural Language Processing Group (WING)</strong> explores the research area of applied language processing and information retrieval to the Web and related technologies. Areas of current interest are question answering, scholarly digital libraries, verb similarity, focused crawling, citation parsing and spidering, web page classification and division, text segmentation, and full text analysis. WING is headed by <A HREF="author/min-yen-kan">Min</a> (A/P Min-Yen KAN). We are based in the Computational Linguistics Laboratory of the <a href="https://www.comp.nus.edu.sg">School of Computing</a> at the National University of Singapore. We often work with the Natural Language Processing Group and the <a href="https://lms.comp.nus.edu.sg/">Lab for Media Search</a>. We are part of the Media Technologies research group umbrella.
   - block: markdown
     content:
-      text: 'The **Web, Information Retrieval / Natural Language Processing Group (WING)** explores the research area of applied language processing and information retrieval to the Web and related technologies. Areas of current interest are question answering, scholarly digital libraries, verb similarity, focused crawling, citation parsing and spidering, web page classification and division, text segmentation, and full text analysis. WING is headed by <A HREF="author/min-yen-kan">Min</a> (A/P Min-Yen KAN). We are based in the Computational Linguistics Laboratory of the <a href="https://www.comp.nus.edu.sg">School of Computing</a> at the National University of Singapore. We often work with the Natural Language Processing Group and the <a href="https://lms.comp.nus.edu.sg/">Lab for Media Search</a>. We are part of the Media Technologies research group umbrella.'
+      text: 'The **Web, Information Retrieval / Natural Language Processing Group (WING)** explores the research area of applied language processing and information retrieval to the Web and related technologies. Areas of current interest are question answering, scholarly digital libraries, verb similarity, focused crawling, citation parsing and spidering, web page classification and division, text segmentation, and full text analysis. WING is headed by <A HREF="/author/min/">Min</a> (A/P Min-Yen KAN). We are based in the Computational Linguistics Laboratory of the <a href="https://www.comp.nus.edu.sg">School of Computing</a> at the National University of Singapore. We often work with the Natural Language Processing Group and the <a href="https://lms.comp.nus.edu.sg/">Lab for Media Search</a>. We are part of the Media Technologies research group umbrella.'
 
   - block: collection
     content:
@@ -82,10 +82,10 @@ sections:
       subtitle:
       text: |
         <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; margin: 20px 0;">
-          {{< figure src="sponsors/csidmlogo.png" link="https://csidm.sg/" target="_blank" alt="CSIDM" width="89px" >}}
-          {{< figure src="sponsors/logo.png" link="https://next.comp.nus.edu.sg/" target="_blank" alt="NUS Computing NEXT" width="132px" >}}
+          {{< figure src="sponsors/csidmlogo.png" alt="CSIDM" width="89px" >}}
+          {{< figure src="sponsors/logo.png" link="https://nextcenter.org/" target="_blank" alt="NUS Computing NEXT" width="132px" >}}
           {{< figure src="sponsors/Screen-Shot-2017-11-10-at-12.11.24-AM.png" link="https://www.crayondata.com/" target="_blank" alt="Crayon Data" width="120px" >}}
-          {{< figure src="sponsors/52750-INTELLLEX-Logo-1.jpg" link="https://www.intelllex.com/hello" target="_blank" alt="INTELLLEX" width="120px" >}}
+          {{< figure src="sponsors/52750-INTELLLEX-Logo-1.jpg" link="https://www.intelllex.com/" target="_blank" alt="INTELLLEX" width="120px" >}}
           {{< figure src="sponsors/MSRLogoDigitalBlack.png" link="https://www.microsoft.com/en-us/research/" target="_blank" alt="Microsoft Research" width="178px" >}}
           {{< figure src="sponsors/1200px-Nvidia_image_logo.svg_.png" link="https://www.nvidia.com/content/global/global.php" target="_blank" alt="NVIDIA" width="150px" >}}
           {{< figure src="sponsors/PatSnap_Logo_CMYK-1.png" link="https://www.patsnap.com/" target="_blank" alt="PatSnap" width="207px" >}}

@@ -28,7 +28,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides:
 
-authors: ["Joeran Beel", "Moritz Baumgart", "min", "haomeng"]
+authors: ["yeetan", "hangcui", "min"]
 
 ---
 Project Duration: May 2004 - July 2005.

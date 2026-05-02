@@ -13,7 +13,7 @@ date: '2021-08'
 superuser: false
 
 # Role/position
-role: UROP Alumnus (Aug '21)
+role: "UROP Alumnus (Aug '21).  Thesis: Job and Course Recommendation System"
 
 # Organizations/Affiliations
 organizations:

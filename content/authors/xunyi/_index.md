@@ -13,7 +13,7 @@ date: '2024-06'
 superuser: false
 
 # Role/position
-role: NGNE Intern (Jun '24)
+role: "NGNE Intern (Jun '24) Recommendation Systems Project"
 
 # Organizations/Affiliations
 organizations:

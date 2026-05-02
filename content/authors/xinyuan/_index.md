@@ -7,13 +7,13 @@ first_name: Xinyuan
 last_name: Lu
 
 # Date for sorting
-date: '2020-01'
+date: '2025-8'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "ISEP Doctoral Alumnus (Jan '20).  Thesis: Fact-Checking Complex Claims with Large Language Models."
+role: "ISEP Doctoral Alumnus (Aug '25).  Thesis: Fact-Checking Complex Claims with Large Language Models."
 
 # Organizations/Affiliations
 organizations:

@@ -13,7 +13,7 @@ date: '2021-08'
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '21); UROP Student (Aug '20)
+role: "FYP Student (Aug '21); UROP Student (Aug '20).  FYP Thesis: Module Recommendation System"
 
 # Organizations/Affiliations
 organizations:

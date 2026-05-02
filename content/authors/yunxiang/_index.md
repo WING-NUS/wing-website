@@ -13,7 +13,7 @@ date: '2021-08'
 superuser: false
 
 # Role/position
-role: Remote Undergraduate Intern (Aug '21)
+role: "Remote Undergraduate Intern (Aug '21). Project Topic: Robustness in NLP"
 
 # Organizations/Affiliations
 organizations:

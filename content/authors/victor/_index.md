@@ -13,7 +13,7 @@ date: '2025-03'
 superuser: false
 
 # Role/position
-role: "ISEP Doctoral Alumnus (Aug '25). Thesis: Towards Holistic and Practical Conversational Recommender Systems."
+role: "ISEP Doctoral Alumnus (Mar '25). Thesis: Towards Holistic and Practical Conversational Recommender Systems."
 
 Thesis:  Going beyond ID-based Recommender Systems by Exploiting External Knowledge."
 

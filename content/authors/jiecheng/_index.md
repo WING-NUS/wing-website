@@ -7,13 +7,13 @@ first_name: Jiecheng
 last_name: Jiang
 
 # Date for sorting
-date: '2025-08-02'
+date: '2026-01-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student (Aug '25)
+role: Masters Student (Jan '26)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master Student August 2025 Intake
+bio: Masters Student Jan 2026 Intake
 
 interests:
   - LLM Alignment
