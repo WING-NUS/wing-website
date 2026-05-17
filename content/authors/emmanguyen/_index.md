@@ -7,7 +7,7 @@ first_name: Emma Thuy Dung
 last_name: Nguyen
 
 # Date for sorting
-date: '2006-00'
+date: '2006-01-01'
 
 # Is this the primary user of the site?
 superuser: false
