@@ -7,13 +7,13 @@ first_name: Yuxi
 last_name: Xie
 
 # Date for sorting
-date: '2021-01'
+date: '2026-05'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Student (Jan '21)
+role: "Doctoral Alumnus (May '26). Thesis: Closed-Loop Scaling: Autonomous Improvement of LLM and LVLM Reasoning"
 
 # Organizations/Affiliations
 organizations:
