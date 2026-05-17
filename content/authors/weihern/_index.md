@@ -7,13 +7,13 @@ first_name: Wei Hern
 last_name: Lim
 
 # Date for sorting
-date: '2025-08'
+date: '2026-04-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '25)
+role: "FYP Student (Aug '25) Thesis: When Models Edit Too Much: On the Fidelity of Minimal Code Edits"
 
 # Organizations/Affiliations
 organizations:
