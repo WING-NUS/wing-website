@@ -13,7 +13,7 @@ date: '2026-01-01'
 superuser: false
 
 # Role/position
-role: Masters Student (Jan '26) <br/> Co-Supervised by <a href="/author/haitao/">Hai-Tao Yu</a>
+role: Masters Student (Jan '26) <br/> Co-Supervised by <a href="https://wing.comp.nus.edu.sg/author/hai-tao-yu/">Hai-Tao Yu</a>
 
 # Organizations/Affiliations
 organizations:
