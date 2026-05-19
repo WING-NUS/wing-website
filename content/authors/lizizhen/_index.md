@@ -7,13 +7,13 @@ first_name: Zizhen
 last_name: Li
 
 # Date for sorting
-date: '2025-08'
+date: '2026-04-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '25)
+role: "FYP Alumnus (Apr '26). Thesis: Adaptive Retrieval Strategies for Retrieval-Augmented Generation"
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Undergraduate / Intern Alumni
+#  - Undergraduate Students
 #  - Researchers
 ---
 

@@ -13,7 +13,7 @@ date: '2025-08-02'
 superuser: false
 
 # Role/position
-role: Master Student (Aug '25)
+role: "Masters Alumnus (Aug '25). Thesis: AI Scientist as a Reproducibility Auditor."
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Alumni
+#  - Graduate Students
 #  - Researchers
 ---
 Nura is a M.Comp student in School of Computing at National University of Singapore. She is currently under the supervision of Prof. Min-Yen Kan. Her research interest primarily lies in Generative Modelling. She is currently exploring various methods to repurpose the AI Scientist to act as a reproducibility auditor. Feel free to contact Nura for any discussions.

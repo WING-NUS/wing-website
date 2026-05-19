@@ -7,13 +7,13 @@ first_name: Sahej
 last_name: Agarwal
 
 # Date for sorting
-date: '2025-01'
+date: '2026-08'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "UROP Student (Jan '25) Thesis: LitePruner: A Lightweight Realtime Token Pruner before Large Language Models<BR/> <font color=red><strong>VIP 10K Awardee</strong></font>"
+role: "FYP Student (Aug '26) and UROP Student (Jan '25) Thesis: LitePruner: A Lightweight Realtime Token Pruner before Large Language Models<BR/> <font color=red><strong>VIP 10K Awardee</strong></font>"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: "http://www.comp.nus.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: UROP Student
+bio: FYP student
 
 interests:
   - Natural Language Processing
@@ -56,8 +56,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate / Intern Alumni
-#  - Undergraduate Students
+  - Undergraduate Students
+#  - Undergraduate / Intern Alumni
 #  - Researchers
 ---
 Sahej is a second-year Computer Engineering undergraduate, currently pursuing a UROP project under Prof. Min-Yen Kan and Dr. Barid Xi Ai. His research focuses on making large language models more accessible to non-English speakers. Sahej is passionate about leveraging AI to solve real-world problems and drive meaningful impact.

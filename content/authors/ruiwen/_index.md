@@ -13,7 +13,7 @@ date: '2025-08-01'
 superuser: false
 
 # Role/position
-role: Doctoral Student (Aug '25)
+role: Doctoral Student (Aug '25) <br/> Co-Supervised by <a href="https://soujanyaporia.github.io/">Soujanya Poria</a>
 
 # Organizations/Affiliations
 organizations:

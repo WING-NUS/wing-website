@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kee Yuan Chuan
+title: Yuan Chuan Kee
 
 # Full Name (for SEO) 
-first_name: Kee
-last_name: Chuan
+first_name: Yuan Chuan
+last_name: Kee
 
 # Date for sorting
 date: '2021-05'

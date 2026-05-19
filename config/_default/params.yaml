@@ -60,7 +60,10 @@ footer:
       link: 'https://x.com/wing_nus'
     - icon: github
       icon_pack: fab
-      link: 'https://github.com/WING-NUS'
+      link: 'https://github.com/WING-NUS/wing-website'
+    - icon: youtube
+      icon_pack: fab
+      link: 'https://www.youtube.com/@wingnus'
 # Localization
 
 locale:
@@ -81,7 +84,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/WING-NUS/wing-website'
     content_dir: content
     branch: main
   avatar:

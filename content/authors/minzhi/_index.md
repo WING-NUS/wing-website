@@ -13,7 +13,7 @@ date: '2022-08'
 superuser: false
 
 # Role/position
-role: A*STAR Doctoral Student (Aug '22)
+role: A*STAR Doctoral Student (Aug '22) <br/> Co-Supervised by <a href="https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen">Nancy F. Chen</a> and <a href="https://raihanjoty.github.io/index.html">Shafiq Joty</a>
 
 # Organizations/Affiliations
 organizations:
