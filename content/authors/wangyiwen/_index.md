@@ -13,7 +13,7 @@ date: '2025-06'
 superuser: false
 
 # Role/position
-role: Research Intern (June '25)
+role: "Research Intern Alumnus (Jun '25)"
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors / Interns
+  - Undergraduate / Intern Alumni
+#  - Visitors / Interns
 #  - Researchers
 ---
 
