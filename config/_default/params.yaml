@@ -47,6 +47,7 @@ header:
 # Site footer
 
 footer:
+  text: '[🐙](https://github.com/WING-NUS/wing-website)'
   copyright:
     notice: '© {year} Web Information Retrieval / Natural Language Processing Group (WING).'
     license:
@@ -81,7 +82,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/WING-NUS/wing-website'
     content_dir: content
     branch: main
   avatar:
