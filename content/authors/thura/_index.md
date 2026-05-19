@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Visitors / Interns
 #  - Researchers
 ---
 Thura is a Summer Research Intern in WING Research Group and working for 10 weeks starting from May 2026 under the supervision of Prof. Min-Yen Kan alongside PhD student Tongyao Zhu. He is currently undergraduate student in KMITL, Thailand and his main interest is AI for Social Good.
