@@ -7,13 +7,13 @@ first_name: Sahej
 last_name: Agarwal
 
 # Date for sorting
-date: '2025-01'
+date: '2026-08-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "UROP Student (Jan '25) Thesis: LitePruner: A Lightweight Realtime Token Pruner before Large Language Models<BR/> <font color=red><strong>VIP 10K Awardee</strong></font>"
+role: "FYP Student (Aug '26) and UROP Student (Jan '25) Thesis: LitePruner: A Lightweight Realtime Token Pruner before Large Language Models<BR/> <font color=red><strong>VIP 10K Awardee</strong></font>"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: "http://www.comp.nus.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: UROP Student
+bio: FYP student
 
 interests:
   - Natural Language Processing

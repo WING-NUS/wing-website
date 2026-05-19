@@ -13,7 +13,7 @@ date: '2026-08'
 superuser: false
 
 # Role/position
-role: FYP Student (Aug'26)
+role: CP4106 Student (Aug '26)
 
 # Organizations/Affiliations
 organizations:
