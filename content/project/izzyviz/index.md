@@ -29,7 +29,7 @@ url_code: "https://github.com/lxz333/IzzyViz"
 #   Otherwise, set `slides = ""`.
 # slides:
 
-authors: ["xizi", "esther", "min"]
+authors: ["xizi", "esther", "yisong", "min"]
 ---
 
 In the field of natural language processing, large and complex neural networks, particularly transformers, have become essential due to their effectiveness in handling text data. However, despite their success, current methods for visualizing how activations of specific network units influence model outputs remain underdeveloped. This gap hinders interpretability and limits researchers’ and practitioners’ understanding of neural network behaviors during training and inference.
