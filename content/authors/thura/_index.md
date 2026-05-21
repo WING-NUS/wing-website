@@ -13,7 +13,7 @@ date: '2026-05'
 superuser: false
 
 # Role/position
-role: SRI Intern
+role: SRI Research Intern (May '26)
 
 # Organizations/Affiliations
 organizations:
