@@ -16,6 +16,8 @@ doi: 10.1145/3742414.3794770
 links:
 - name: ACM DL
   url: https://dl.acm.org/doi/10.1145/3742414.3794770
+- name: ACM DOI
+  url: https://doi.acm.org?doi=3742414.3794770
 featured: true
 image:
   caption: 'Immersive archive access combines conversational evidence retrieval with spatial interfaces.'
