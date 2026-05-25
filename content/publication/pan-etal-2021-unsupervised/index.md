@@ -24,7 +24,11 @@ abstract: Obtaining training data for multi-hop question answering (QA) is time-
   competent multi-hop QA which achieves 61% and 83% of the supervised learning performance
   for the HybridQA and the HotpotQA dataset, respectively. We also show that pretraining
   the QA system with the generated data would greatly reduce the demand for human-annotated
-  training data. Our codes are publicly available at r̆lhttps://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA.
+  training data. Our codes are publicly available at https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA.
+summary: 'An unsupervised multi-hop QA framework that generates synthetic training data from heterogeneous sources.'
+image:
+  caption: 'MQA-QG bridge-type question generation framework.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2021.naacl-main.469

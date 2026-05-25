@@ -24,6 +24,10 @@ abstract: 'Questions of fairness, robustness, and transparency are paramount to 
   developing reliability tests. We argue that reliability testing --- with an emphasis
   on interdisciplinary collaboration --- will enable rigorous and targeted testing,
   and aid in the enactment and enforcement of industry standards.'
+summary: 'A framework for reliability testing of NLP systems in fairness, robustness, and transparency settings.'
+image:
+  caption: 'DOCTOR reliability-testing workflow.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2021.acl-long.321

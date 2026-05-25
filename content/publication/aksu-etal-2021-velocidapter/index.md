@@ -26,6 +26,10 @@ abstract: We introduce a synthetic dialogue generation framework, Velocidapter, 
   and BiDAF as base models. We further show that the framework is easy to use by novice
   users and conclude that Velocidapter can greatly help training over task-oriented
   dialogues, especially for low-resourced emerging domains.
+summary: 'A synthetic dialogue generation framework that improves low-resource task-oriented dialogue comprehension.'
+image:
+  caption: 'Velocidapter example dialogue and QA table.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2021.sigdial-1.14

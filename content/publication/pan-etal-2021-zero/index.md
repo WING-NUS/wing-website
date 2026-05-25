@@ -26,6 +26,10 @@ abstract: Neural models for automated fact verification have achieved promising 
   data. In a zero-shot scenario, QACG improves a RoBERTa model′s F1 from 50% to 77%,
   equivalent in performance to 2K+ manually-curated examples. Our QACG code is publicly
   available.
+summary: 'A claim-generation framework that improves zero-shot fact verification with synthetic training data.'
+image:
+  caption: 'QACG framework overview.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2021.acl-short.61
