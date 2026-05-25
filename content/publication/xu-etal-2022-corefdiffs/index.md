@@ -25,6 +25,10 @@ abstract: Knowledge-grounded dialog systems need to incorporate smooth transitio
   significantly outperforms the state-of-the-art by 9.5%, 7.4% and 8.2% on three public
   benchmarks. This demonstrates that the effective modeling of co-reference and knowledge
   difference for dialog flows are critical for transitions in document-grounded conversation.
+summary: 'A document-grounded conversation model that uses co-referential and differential knowledge flow.'
+image:
+  caption: 'CorefDiffs knowledge flow model.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2022.coling-1.38

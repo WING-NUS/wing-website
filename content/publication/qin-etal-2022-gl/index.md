@@ -30,6 +30,10 @@ abstract: Due to high data demands of current methods, attention to zero-shot cr
   semantic-level Global transfer across intent and slot). Experiments on MultiATIS++
   show that GL-CLeF achieves the best performance and successfully pulls representations
   of similar sentences across languages closer.
+summary: 'A contrastive cross-lingual SLU framework with global and local alignment components.'
+image:
+  caption: 'GL-CLeF cross-lingual alignment framework.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2022.acl-long.191

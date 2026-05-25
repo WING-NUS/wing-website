@@ -23,6 +23,10 @@ abstract: Augmentation of task-oriented dialogues has followed standard methods 
   during training, and it is also more robust to unseen values. We conclude that exploiting
   belief state annotations enhances dialogue augmentation and results in improved
   models in n-shot training scenarios.
+summary: 'A belief-state-driven dialogue augmentation method that improves n-shot task-oriented DST.'
+image:
+  caption: 'Dialogue augmentation framework.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2022.findings-acl.131
