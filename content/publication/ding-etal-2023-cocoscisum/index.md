@@ -24,7 +24,11 @@ abstract: We present a novel toolkit for controlled summarization of scientific 
   and accommodating diverse input document formats. CocoSciSum is available on GitHub
   (https://github.com/WING-NUS/SciAssist/tree/CocoSciSum) with an introduction video
   (https://youtu.be/YC1YDeEjAbQ).
+summary: 'A controllable scientific summarization toolkit that lets users steer length and keyword inclusion.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.emnlp-demo.47
+image:
+  caption: 'CocoSciSum toolkit overview.'
+  preview_only: false
 ---

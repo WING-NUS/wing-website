@@ -22,8 +22,12 @@ abstract: The development of general-domain neural machine translation (NMT) met
   system. Our model achieves 99.85%, 99.00%, and 95.52% on length accuracy, rhyme
   accuracy, and word boundary recall. In our subjective evaluation, our model shows
   a 75% relative enhancement on overall quality, compared against naive fine-tuning
-  (Code available at r̆lhttps://github.com/Sonata165/ControllableLyricTranslation).
+  (Code available at https://github.com/Sonata165/ControllableLyricTranslation).
+summary: 'A controllable neural lyric translation system designed to improve singability.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.acl-long.27
+image:
+  caption: 'Lyric translation pipeline overview.'
+  preview_only: false
 ---

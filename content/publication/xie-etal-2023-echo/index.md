@@ -23,7 +23,11 @@ abstract: We introduce ECHo (Event Causality Inference via Human-Centric Reasoni
   and MiniGPT-4 on three diagnostic human-centric tasks. Further analysis demonstrates
   ECHo as a challenging dataset to expose imperfections and inconsistencies in reasoning.
   Our data and code are publicly available at [https://github.com/YuxiXie/ECHo](https://github.com/YuxiXie/ECHo).
+summary: 'A visio-linguistic dataset and chain-of-thought framework for human-centric event causality inference.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.findings-emnlp.268
+image:
+  caption: 'ECHo reasoning framework.'
+  preview_only: false
 ---

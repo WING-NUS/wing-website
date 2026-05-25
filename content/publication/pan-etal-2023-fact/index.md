@@ -27,8 +27,12 @@ abstract: Fact-checking real-world claims often requires collecting multiple pie
   data. We evaluate ProgramFC on two challenging fact-checking datasets and show that
   it outperforms seven fact-checking baselines across different settings of evidence
   availability, with explicit output programs that benefit human debugging. Our codes
-  and data are publicly available at r̆lhttps://github.com/mbzuai-nlp/ProgramFC.
+  and data are publicly available at https://github.com/mbzuai-nlp/ProgramFC.
+summary: 'A program-guided fact-checking model that decomposes complex claims into executable sub-tasks.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.acl-long.386
+image:
+  caption: 'ProgramFC workflow overview.'
+  preview_only: false
 ---

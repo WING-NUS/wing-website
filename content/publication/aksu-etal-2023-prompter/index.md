@@ -23,7 +23,11 @@ abstract: A challenge in the Dialogue State Tracking (DST) field is adapting mod
   not only utilizes the semantics of slot descriptions but also how often the slots
   appear together in conversation. Moreover, Prompter′s gains are due to its improved
   ability to distinguish ″none″-valued dialogue slots, compared against baselines.
+summary: 'A zero-shot prefix-tuning method that adapts dialogue state tracking to new domains using slot descriptions.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.acl-long.252
+image:
+  caption: 'Prompter overview figure.'
+  preview_only: false
 ---

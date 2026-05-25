@@ -28,7 +28,11 @@ abstract: Numerous visio-linguistic (V+L) representation learning methods have b
   all fail at cross-modal transfer and have limited success accommodating the addition
   or deletion of one modality. We release TraVLR as an open challenge for the research
   community.
+summary: 'A bimodal benchmark for probing visio-linguistic reasoning and cross-modal transfer.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.eacl-main.242
+image:
+  caption: 'TraVLR reasoning example figure.'
+  preview_only: false
 ---
