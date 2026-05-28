@@ -24,13 +24,10 @@ organizations:
 bio: Tenured Associate Professor in the School of Computing, National University of Singapore
 
 interests:
-  - Sound and Music Computing
-  - Mobile and Wearable Computing
-  - eHealth and eLearning
-  - Audio Compression and Compressed Domain Audio Processing
-  - Error Robust Delivery of Audio Content Over Wireless Packet Networks
-  - Perception-aware Low-power Media Processing
-  - Designing Multimedia Systems for Education and Entertainment
+  - Sound and Music Computing (SMC)
+  - Music Information Retrieval (MIR)
+  - e-Learning (computer-assisted music and language edutainment)
+  - e-Health (computer-assisted music-enhanced exercise and therapy)
 
 education:
   courses:
@@ -51,7 +48,7 @@ education:
 social:
   - icon: house
     icon_pack: fas
-    link: https://www.comp.nus.edu.sg/~wangye
+    link: https://www.comp.nus.edu.sg/cs/people/wangye/
   - icon: users
     icon_pack: fas
     link: https://smcnus.comp.nus.edu.sg
@@ -66,6 +63,6 @@ user_groups:
 #  - Researchers
 ---
 
-Dr. WANG Ye is a tenured associate professor in the School of Computing at the National University of Singapore. He obtained his BSc in Telecommunications from South China University of Technology in 1983, his MSc in Telecommunications from Braunschweig University of Technology in 1993, and his PhD in Information Technology from Tampere University of Technology in Finland in 2002.
+Dr. WANG Ye is a tenured associate professor in the School of Computing at the National University of Singapore. He obtained his BSc in Telecommunications from South China University of Technology in 1983, his MSc in Telecommunications from Braunschweig University of Technology in 1993, and his PhD in Information Technology from Tampere University of Technology in Finland in 2002. He worked as a member of the technical staff at Nokia Research Center, Tampere (1994–2002) before joining NUS in 2002. Dr. Wang's research has evolved from error robust audio streaming and low power media processing to Sound and Music Computing for Human Health and Potential (SMC4HHP). Dr. Wang's research has been consistently published in the top venues in multimedia and music information retrieval including ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM), ACM Multimedia (ACM MM), IEEE/ACM Transactions on Audio, Speech, and Language Processing, and the International Society for Music Information Retrieval Annual Conference (ISMIR), ACM ACCESS Conference on Computers and Accessibility (ASSETS). Dr. Wang has served as an editorial board member of the Journal of New Music Research, IEEE Transactions on Multimedia (TMM) as well as on the program committees of ACM MM and ISMIR. He has served as the general chair of ISMIR2017 (https://ismir2017.smcnus.org/) and TPC co-chair of ICOT2017 (http://www.colips.org/conferences/icot2017/). He has co-authored a number of Best Papers at ACM MM, ACM CHI, ISMIR and IEEE ISM. He was invited to give a keynote address at ISMIR 2014 on "Sound and Music Computing for Exercise and Rehabilitation" where he presented interdisciplinary projects he initiated and pioneered in collaboration with clinicians at Harvard Medical School in the USA, Singapore General Hospital, and Huashan Hospital in China.
 
 (Information propagated from [here](https://www.comp.nus.edu.sg/cs/people/wangye/), please visit Ye Wang's homepage for more details about his research!)
