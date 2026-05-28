@@ -77,6 +77,6 @@ user_groups:
 #  - Researchers
 ---
 
-I am currently a Researcher at TikTok AI Innovation Center in Singapore 🇸🇬, where we are doing cutting-edge AI research in large language models, multimodal systems, and code intelligence 💻.
+Qian Liu is currently a Researcher at TikTok AI Innovation Center in Singapore 🇸🇬, where his team is doing cutting-edge AI research in large language models, multimodal systems, and code intelligence 💻.
 
 (Information propagated from [here](https://siviltaram.github.io), please visit Qian's homepage for more details about his research!)
