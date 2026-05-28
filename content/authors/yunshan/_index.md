@@ -13,7 +13,7 @@ date: '2026-05'
 superuser: false
 
 # Role/position
-role: Current Collaborator
+role: Research Collaborator
 
 # Organizations/Affiliations
 organizations:
