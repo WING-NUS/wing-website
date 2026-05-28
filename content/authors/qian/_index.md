@@ -25,11 +25,9 @@ bio: Researcher at TikTok AI Innovation Center; Head of Code Research Team
 
 interests:
   - Code intelligence and generation
-  - Natural language processing
-  - Structured data understanding
   - Natural language reasoning
+  - Structured data understanding
   - Semantic parsing
-  - Program synthesis
 
 education:
   courses:

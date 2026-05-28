@@ -67,6 +67,8 @@ user_groups:
 #  - Researchers
 ---
 
-Kokil Jaidka's research develops computational models of language to measure and understand computer-mediated communication, particularly how social media shapes political behavior, wellbeing, and public discourse.
+Kokil Jaidka is an Associate Professor of Computational Communication at the National University of Singapore, with an affiliate position at the NUS Institute of Data Sciences. Her research develops computational models of language to measure and understand computer-mediated communication, particularly how social media shapes political behavior, wellbeing, and public discourse.
+
+Previously, she was a Presidential Postdoctoral Fellow at NTU (2018–2019) and a postdoctoral researcher at the University of Pennsylvania working with Prof. Lyle Ungar on the World Wellbeing Project (2016–2018). Before academia, she spent three years as a Senior Computer Scientist at Adobe Research, where she co-invented nine patents in digital marketing and natural language processing.
 
 (Information propagated from [here](https://kokiljaidka.github.io), please visit Kokil's homepage for more details about her research!)

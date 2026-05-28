@@ -26,8 +26,8 @@ bio: Tenured Associate Professor in the School of Computing, National University
 interests:
   - Sound and Music Computing (SMC)
   - Music Information Retrieval (MIR)
-  - e-Learning (computer-assisted music and language edutainment)
-  - e-Health (computer-assisted music-enhanced exercise and therapy)
+  - e-Learning
+  - e-Health
 
 education:
   courses:
