@@ -46,6 +46,15 @@ social:
   - icon: house
     icon_pack: fas
     link: https://sites.google.com/site/nancyfchen/home
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:Nancy_Chen@a-star.edu.sg'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=K3Z9UiAAAAAJ&hl=en
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: 'Nancy_Chen@a-star.edu.sg'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
