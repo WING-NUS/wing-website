@@ -68,6 +68,6 @@ sections:
       show_interests: false
       show_role: true
       show_social: false
-      show_avatar: false # this directive doesn't work  
+      show_avatar: false # hides photos in this listing only; profile pages still show them (see layouts/partials/blocks/people.html)
 
 ---
