@@ -2,7 +2,7 @@
 title: 'Misinformation, Disinformation, and Generative AI: Implications for Perception
   and Policy'
 authors:
-- Kokil Jaidka
+- kokil
 - Tsuhan Chen
 - Simon Chesterman
 - Wynne Hsu

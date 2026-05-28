@@ -7,9 +7,9 @@ authors:
 - Liying Cheng
 - Mao Yancan
 - Anirudh Goyal
-- Kenji Kawaguchi
+- kenji
 - min
-- Michael Shieh
+- qizhe
 
 doi: "10.18653/v1/2024.emnlp-main.584"
 

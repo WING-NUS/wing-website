@@ -6,7 +6,7 @@ authors:
 - Duong Ngoc Yen
 - trong
 - Anh Tuan Luu
-- Kenji Kawaguchi
+- kenji
 - shafiq
 - min
 - nancy

@@ -3,7 +3,7 @@ title: Aligning Large Language Models with Human Opinions through Persona Select
   and Value-Belief-Norm Reasoning
 authors:
 - long
-- Kenji Kawaguchi
+- kenji
 - min
 - nancy
 date: '2025-01-01'

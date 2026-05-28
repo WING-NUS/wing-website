@@ -5,7 +5,7 @@ authors:
 - Guillaume Cabanac
 - muthuc
 - Ingo Frommholz
-- Kokil Jaidka
+- kokil
 - min
 - Philipp Mayr
 - Dietmar Wolfram

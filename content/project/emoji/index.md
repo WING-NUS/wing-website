@@ -38,7 +38,7 @@ url_code: 'https://github.com/WING-NUS/ELCo'
 #   Otherwise, set `slides = ""`.
 # slides:
 
-authors: ["yisong", "ziyun", "min"]
+authors: ["yisong", "ziyun", "valentin", "min"]
 
 ---
 The project began when Yisong, intrigued by [the Emoji Mashup Bot](https://x.com/EmojiMashupBot), explored the question: Can emojis be composed to convey meanings like English phrases? With the support of his advisor, Prof. Min, he recruited an undergraduate student, Zi Yun Yang, to collaborate on the project. Ms. Yang built an annotation platform to collect emoji compositions and their corresponding English phrases from her peers. After her graduation, Yisong and the team added another layer of annotation on composition types and formalized an emoji-based textual entailment task (EmoTE).  

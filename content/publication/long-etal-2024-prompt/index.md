@@ -8,8 +8,8 @@ authors:
 - yuxi
 - James Xu Zhao
 - nancy
-- Kenji Kawaguchi
-- Michael Shieh
+- kenji
+- qizhe
 - Junxian He
 
 author_notes: [Equal Contribution, Equal Contribution, Equal Contribution]
