@@ -20,7 +20,11 @@ abstract: With NLP research now quickly being transferred into real-world applic
   The methodology is interactive and participatory, including case studies and working
   in groups. Importantly, the participants will be co-building the tutorial outcomes
   and will be working to create further tutorial materials to share as public outcomes.
+summary: 'A tutorial on ethical considerations in NLP authoring and peer review.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.eacl-tutorials.4
+image:
+  caption: 'Tutorial outline table.'
+  preview_only: false
 ---

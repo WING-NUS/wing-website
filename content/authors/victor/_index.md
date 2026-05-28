@@ -15,8 +15,6 @@ superuser: false
 # Role/position
 role: "ISEP Doctoral Alumnus (Mar '25). Thesis: Towards Holistic and Practical Conversational Recommender Systems."
 
-Thesis:  Going beyond ID-based Recommender Systems by Exploiting External Knowledge."
-
 # Organizations/Affiliations
 organizations:
   - name: National University of Singapore, School of Computing

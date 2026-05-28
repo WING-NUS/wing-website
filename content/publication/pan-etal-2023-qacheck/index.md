@@ -24,7 +24,11 @@ abstract: 'Fact-checking real-world claims often requires intricate, multi-step 
   detailing its reasoning process, guided by a sequence of (question, answer) pairs.
   QACheck also provides the source of evidence supporting each question, fostering
   a transparent, explainable, and user-friendly fact-checking process.'
+summary: 'A question-guided multi-hop fact-checking demo system that explains its reasoning through Q&A traces.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.emnlp-demo.23
+image:
+  caption: 'QACheck system overview.'
+  preview_only: false
 ---

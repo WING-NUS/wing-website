@@ -32,7 +32,11 @@ abstract: Improving the quality of academic writing is a meaningful but challeng
   exhibit considerably improved performance, rivaling the latest chatbot ChatGPT,
   but still have a non-negligible gap compared to the ground truth formal-academic
   texts in Doolittle.
+summary: 'A benchmark and training framework for paragraph-level academic writing formalization.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.emnlp-main.809
+image:
+  caption: 'Doolittle benchmark table.'
+  preview_only: false
 ---

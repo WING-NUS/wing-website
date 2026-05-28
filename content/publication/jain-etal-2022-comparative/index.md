@@ -16,6 +16,10 @@ abstract: We model products′ reviews to generate comparative responses consist
   We contribute the first dataset for this task of Comparative Snippet Generation
   from contrasting opinions regarding a product, and an analysis of performance of
   a pre-trained BERT model to generate such snippets.
+summary: 'A dataset and BERT baseline for generating comparative product-review snippets.'
+image:
+  caption: 'Comparative snippet generation overview.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2022.ecnlp-1.7

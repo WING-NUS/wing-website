@@ -36,6 +36,7 @@ abstract: The emergence of generative artificial intelligence (GenAI) has exacer
   of GenAI and proactively address the evolving challenges of digital misinformation.
   We conclude by discussing how GenAI can be leveraged to combat MDM, thereby creating
   a reflective cycle of technological advancement and mitigation.
+summary: 'A multidisciplinary framework for understanding how generative AI reshapes misinformation creation, consumption, and policy responses.'
 tags:
 - Misinformation
 - disinformation
@@ -43,6 +44,9 @@ tags:
 - resilience
 - generative AI
 - social media
+image:
+  caption: 'Figure from Jaidka et al. (2025).'
+  preview_only: false
 links:
 - name: URL
   url: https://doi.org/10.1145/3689372

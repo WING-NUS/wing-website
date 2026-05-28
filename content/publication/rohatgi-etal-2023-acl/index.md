@@ -23,7 +23,11 @@ abstract: 'We present ACL OCL, a scholarly corpus derived from the ACL Anthology
   paper topics with a supervised neural model, we note that interest in ``Syntax:
   Tagging, Chunking and Parsing″ is waning and ``Natural Language Generation″ is resurging.
   Our dataset is available from HuggingFace (https://huggingface.co/datasets/WINGNUS/ACL-OCL).'
+summary: 'An ACL Anthology-derived corpus that adds PDFs, figures, links, and metadata to support open science in computational linguistics.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.emnlp-main.640
+image:
+  caption: 'ACL OCL corpus overview.'
+  preview_only: false
 ---

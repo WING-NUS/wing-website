@@ -28,7 +28,11 @@ abstract: 'We investigate the potential misuse of modern Large Language Models (
   Lastly, we discuss the practicality of utilizing LLMs as automatic misinformation
   generators and provide relevant resources and code to facilitate future research
   in this area.'
+summary: 'An analysis of how LLM-generated misinformation can harm QA systems, with mitigation strategies.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.findings-emnlp.97
+image:
+  caption: 'Misinformation pollution experiment setup.'
+  preview_only: false
 ---

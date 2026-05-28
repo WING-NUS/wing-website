@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xiang Yuanxin
+title: Yuanxin Xiang
 
 # Full Name (for SEO) 
-first_name: Xiang
-last_name: Yuanxin
+first_name: Yuanxin
+last_name: Xiang
 
 # Date for sorting
 date: '2017-00'

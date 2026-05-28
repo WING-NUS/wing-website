@@ -24,7 +24,11 @@ abstract: 'We propose two methods to make unsupervised domain adaptation (UDA) m
   domain adaptation methods such as DANN and DSN in sentiment classification, and
   we are within 0.85% F1 for natural language inference task, by fine-tuning only
   a fraction of the full model parameters. We release our code at this URL.'
+summary: 'Two adapter-based methods for parameter-efficient unsupervised domain adaptation.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.eacl-main.165
+image:
+  caption: 'UDAPTER domain adaptation overview.'
+  preview_only: false
 ---

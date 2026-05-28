@@ -26,6 +26,10 @@ abstract: The robustness of pretrained language models(PLMs) is generally measur
   by analyzing the encoded syntactic and semantic information using diagnostic probes.
   We find that similar layers have similar amounts of linguistic information for data
   from an unseen domain.
+summary: 'A layer-by-layer study of how pretrained language model representations vary across domains.'
+image:
+  caption: 'Domain divergence across PLM layers.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2021.adaptnlp-1.23

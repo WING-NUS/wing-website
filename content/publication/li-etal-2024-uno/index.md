@@ -21,7 +21,11 @@ abstract: Previous zero-shot dialogue state tracking (DST) methods only apply tr
   models. We demonstrate this method′s effectiveness on general language models in
   zero-shot scenarios, improving average joint goal accuracy by 8% across all domains
   in MultiWOZ.
+summary: 'A NAACL Findings paper that converts zero-shot dialogue state tracking into few-shot learning by using unlabelled target-domain data with joint and self-training.'
 links:
 - name: URL
   url: https://aclanthology.org/2024.findings-naacl.187
+image:
+  caption: 'Overview of UNO-DST joint training and self-training from Li et al. (2024).'
+  preview_only: false
 ---

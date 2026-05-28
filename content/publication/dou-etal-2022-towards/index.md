@@ -26,6 +26,10 @@ abstract: In this paper, we study the problem of knowledge-intensive text-to-SQL
   as a domain knowledge base and propose a framework (ReGrouP) to leverage this formulaic
   knowledge during parsing. Experiments using ReGrouP demonstrate a significant 28.2%
   improvement overall on KnowSQL.
+summary: 'A knowledge-intensive text-to-SQL framework that uses formulaic knowledge and the KnowSQL benchmark.'
+image:
+  caption: 'Formulaic knowledge framework for text-to-SQL parsing.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2022.emnlp-main.350

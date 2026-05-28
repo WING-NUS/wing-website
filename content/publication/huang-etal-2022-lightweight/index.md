@@ -21,6 +21,10 @@ abstract: Logical structure recovery in scientific articles associates text with
   comparable to that of other works that use rich document features such as font and
   spatial position, using less data without sacrificing performance, resulting in
   a lightweight training pipeline.
+summary: 'A lightweight text-only model for scientific logical structure recovery using cross-line context.'
+image:
+  caption: 'Contextual logical structure recovery pipeline.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2022.sdp-1.5

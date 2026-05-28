@@ -23,6 +23,10 @@ abstract: Modern Natural Language Processing (NLP) models are known to be sensit
   perturbations on three datasets. We show that a model which is better at identifying
   a perturbation (higher learnability) becomes worse at ignoring such a perturbation
   at test time (lower robustness), providing empirical support for our hypothesis.
+summary: 'A learnability-based explanation of why NLP models are brittle to textual perturbations.'
+image:
+  caption: 'Robustness and learnability analysis.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2022.findings-acl.315

@@ -26,7 +26,11 @@ abstract: Image--text models (ITMs) is the prevalent architecture to solve video
   demonstrate that our proposed strategies can boost the performance for image--text
   pretrained models, and have a wide application scenario in terms of model architectures
   and dataset types. Our code is available at https://github.com/declare-lab/Sealingr̆lhttps://github.com/declare-lab/Sealing.
+summary: 'A NAACL Findings paper proposing efficient frame sampling strategies that improve video question answering with image-text models.'
 links:
 - name: URL
   url: https://aclanthology.org/2024.findings-naacl.162
+image:
+  caption: 'Existing sampling strategies for video question-answering tasks from Han et al. (2024).'
+  preview_only: false
 ---

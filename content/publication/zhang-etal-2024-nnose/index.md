@@ -24,7 +24,11 @@ abstract: The labor market is changing rapidly, prompting increased interest in 
   skills from other datasets in the datastore. This improves skill extraction textitwithout
   additional fine-tuning. Crucially, we observe a performance gain in predicting infrequent
   patterns, with substantial gains of up to 30% span-F1 in cross-dataset settings.
+summary: 'An EACL 2024 retrieval-augmented skill extraction method that uses nearest-neighbor datastores to improve rare and cross-dataset occupational skill prediction.'
 links:
 - name: URL
   url: https://aclanthology.org/2024.eacl-long.35
+image:
+  caption: 'Setup of NNOSE nearest-neighbor occupational skill extraction from Zhang et al. (2024).'
+  preview_only: false
 ---

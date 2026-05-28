@@ -29,7 +29,11 @@ abstract: Annotated data plays a critical role in Natural Language Processing (N
   shows CoAnnotating to be an effective means to allocate work from results on different
   datasets, with up to 21% performance improvement over random baseline. For code
   implementation, see https://github.com/SALT-NLP/CoAnnotating.
+summary: 'A human-LLM co-annotation framework that allocates labeling work by uncertainty.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.emnlp-main.92
+image:
+  caption: 'CoAnnotating work allocation overview.'
+  preview_only: false
 ---

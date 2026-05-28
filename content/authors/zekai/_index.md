@@ -14,7 +14,7 @@ superuser: false
 
 # Role/position
 role: | 
-  UROP Student (Aug '23) <BR/> <font color=red><strong>OUR Awardee</strong></font>
+  UROP Student (Aug '23). Thesis: ISQA: Informative Factuality Feedback for Scientific Summarization <BR/> <font color=red><strong>OUR Awardee</strong></font>
 
 mentors: ["yanxia"]
 
@@ -55,4 +55,3 @@ user_groups:
   - Undergraduate / Intern Alumni
 #  - Researchers
 ---
-

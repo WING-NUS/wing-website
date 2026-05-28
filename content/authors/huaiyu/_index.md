@@ -13,7 +13,7 @@ date: '2023-08'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '23)
+role: "FYP Alumnus (Aug '23). Thesis: Résumé Recommendation for HR using LLM generated interaction feedback"
 
 # Organizations/Affiliations
 organizations:
@@ -52,4 +52,3 @@ user_groups:
   - Undergraduate / Intern Alumni
 #  - Researchers
 ---
-
