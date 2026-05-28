@@ -6,8 +6,8 @@ authors:
 - duy
 - hai
 - Kenji Kawaguchi
-- Nancy F. Chen
-- Shafiq Joty
+- nancy
+- shafiq
 - min
 
 doi: ""

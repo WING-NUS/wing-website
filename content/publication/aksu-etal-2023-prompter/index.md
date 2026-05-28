@@ -3,7 +3,7 @@ title: 'Prompter: Zero-shot Adaptive Prefixes for Dialogue State Tracking Domain
 authors:
 - taha
 - min
-- Nancy Chen
+- nancy
 date: '2023-07-01'
 publishDate: '2024-07-06T02:22:24.632344Z'
 publication_types:

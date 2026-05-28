@@ -2,7 +2,7 @@
 title: Reliability Testing for Natural Language Processing Systems
 authors:
 - samson
-- Shafiq Joty
+- shafiq
 - Kathy Baxter
 - Araz Taeihagh
 - Gregory A. Bennett

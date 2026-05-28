@@ -6,7 +6,7 @@ authors:
 - Taiwei Shi
 - Caleb Ziems
 - min
-- Nancy Chen
+- nancy
 - Zhengyuan Liu
 - Diyi Yang
 date: '2023-12-01'

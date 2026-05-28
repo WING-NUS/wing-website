@@ -6,9 +6,9 @@ authors:
 - hai
 - Tiviatis Sim
 - Hieu Dao
-- Shafiq Joty
+- shafiq
 - Kenji Kawaguchi
-- Nancy F. Chen
+- nancy
 - min
 
 doi: ""
