@@ -67,6 +67,6 @@ user_groups:
 #  - Researchers
 ---
 
-Soujanya Poria's group studies how AI can reason, explain itself, and act safely across language, vision, and audio. He leads the DeCLaRe Lab at the School of Electrical and Electronic Engineering, Nanyang Technological University.
+Soujanya Poria is an Associate Professor in the School of Electrical and Electronic Engineering at Nanyang Technological University (NTU), where he leads the DeCLaRe Lab. His group studies how AI can reason, explain itself, and act safely across language, vision, and audio.
 
 (Information propagated from [here](https://soujanyaporia.github.io), please visit Soujanya's homepage for more details about his research!)
