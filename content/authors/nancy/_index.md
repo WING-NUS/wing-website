@@ -7,13 +7,13 @@ first_name: Nancy
 last_name: Chen
 
 # Date for sorting
-date: '2026-05'
+date: '2021-07-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Current Collaborator
+role: Research Collaborator
 
 # Organizations/Affiliations
 organizations:
