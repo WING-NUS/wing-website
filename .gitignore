@@ -10,4 +10,7 @@ go.sum
 .hugo_build.lock
 .bin/
 
+# Local Claude Code instructions (do not commit)
+CLAUDE.md
+
 .DS_Store
