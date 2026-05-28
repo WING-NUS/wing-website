@@ -35,7 +35,7 @@ featured: true
 #   Otherwise, set `slides = ""`.
 # slides:
 
-authors: ["long", "hai", "duy", "trong", "wangyiwen", "anhnguyen", "min"]
+authors: ["long", "hai", "duy", "trong", "wangyiwen", "anhnguyen", "nancy", "shafiq", "min"]
 
 ---
 

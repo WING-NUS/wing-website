@@ -27,7 +27,7 @@ url_code: 'https://github.com/yajingyang/DataTales/'
 #   Otherwise, set `slides = ""`.
 # slides:
 
-authors: ["yajing", "Qian Liu", "min"]
+authors: ["yajing", "qian", "yunshan", "min"]
 
 ---
 DATATALES was developed to address the limitations of existing benchmarks in evaluating language models' proficiency in data narration. Unlike traditional data-to-text tasks that focus on basic information transformation, DATATALES captures the complex analytical reasoning required to transform tabular financial data into coherent, insightful narratives.
