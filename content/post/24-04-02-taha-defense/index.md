@@ -1,7 +1,7 @@
 ---
 title: Congratulations, Dr. Taha Aksu! 
 date: 2024-04-02
-authors: [taha]
+authors: [taha, nancy, min]
 ---
 
 Congratulations to Dr. Taha Aksu on successfully defending his PhD thesis titled, *"Task-Oriented Dialogue Understanding and Evaluation using Minimal Data."* 

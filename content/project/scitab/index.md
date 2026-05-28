@@ -27,7 +27,7 @@ url_code: 'https://github.com/XinyuanLu00/SciTab'
 #   Otherwise, set `slides = ""`.
 # slides:
 
-authors: ["xinyuan", "liangming", "Qian Liu", "Preslav Nakov","min"]
+authors: ["xinyuan", "liangming", "qian", "Preslav Nakov","min"]
 
 ---
 SCITAB was developed to fill the gap in scientific fact-checking benchmarks by incorporating claims derived from actual scientific papers rather than crowd-sourced ones. These claims require multi-step reasoning to verify against evidence in tables. The dataset was created using a human–model collaboration approach, where real-world claims were filtered, counterclaims were generated using InstructGPT, and all claims were manually verified by expert annotators.
