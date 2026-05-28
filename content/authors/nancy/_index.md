@@ -23,7 +23,7 @@ organizations:
     url: 'https://www.a-star.edu.sg/cfar/about-cfar/our-team'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Leader of the Multimodal Generative AI Group and the AI for Education Programme at I2R, A*STAR
+bio: A*STAR Fellow; leads the Multimodal Generative AI group and the AI for Education Programme at A*STAR
 
 interests:
   - Conversational AI and dialogue systems
@@ -66,6 +66,12 @@ user_groups:
 #  - Researchers
 ---
 
-My team advances conversational and multimodal intelligence, focusing on how AI systems understand, interact, and align with humans across languages, contexts, and societies.
+Dr Nancy F. Chen is an ISCA Fellow (2025), AAIA Fellow (2025), and A*STAR Fellow (2023), and a recipient of the Asian Women Tech Leaders Award (2025). She was also inducted into IEEE Eta Kappa Nu (HKN), the IEEE honour society recognising outstanding engineers.
 
-(Information propagated from [here](https://sites.google.com/site/nancyfchen/home), please visit Nancy's homepage for more details about her research!)
+At A*STAR, Dr Chen leads the Multimodal Generative AI group and the AI for Education Programme. A serial Best Paper Award winner at leading international conferences, including ICASSP, ACL, EMNLP, MICAAI, COLING, APSIPA, SIGDIAL and EACL, her research spans applications in education, healthcare, neuroscience, social media, security and forensics. Her multimodal and multilingual AI technologies have also led to commercial spin-offs and adoption by Singapore's Ministry of Education.
+
+An active international research leader, Dr Chen has served as Programme Chair for top-tier AI conferences such as NeurIPS and ICLR, and has delivered international keynote addresses at major forums worldwide. She is also an IEEE Signal Processing Society Distinguished Lecturer (2023–2024), contributing to the advancement and inspiration of the global research community.
+
+Dr Chen's strategic vision and policy acumen are reflected in her extensive service to the global STEM community. She has served as an APSIPA Board-of-Governor member (2024–2026), ISCA Board Member (2021–2024), and was recognised as one of Singapore's 100 Women in Tech (2021). Her professional accolades include awards from IEEE, Microsoft, Proctor & Gamble, UNESCO, L'Oréal, and the National Institute of Health (USA). Dr Chen has long advised government and industry partners on AI and emerging technologies, beginning during her tenure at MIT Lincoln Laboratory while pursuing her PhD at MIT and Harvard.
+
+(Information propagated from [here](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen), please visit Nancy's homepage for more details about her research!)

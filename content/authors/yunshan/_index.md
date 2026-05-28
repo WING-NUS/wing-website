@@ -69,6 +69,6 @@ user_groups:
 #  - Researchers
 ---
 
-I am a tenure-track Assistant Professor in School of Computing and Information Systems, Singapore Management University. Before that, I was a Postdoctoral Research Fellow in National University of Singapore (NUS), where I was a member of NExT++ Research Center, supervised by Prof. Chua Tat-Seng.
+Yunshan Ma is a tenure-track Assistant Professor in School of Computing and Information Systems, Singapore Management University. Before that, he was a Postdoctoral Research Fellow in National University of Singapore (NUS), where he was a member of NExT++ Research Center, supervised by Prof. Chua Tat-Seng.
 
 (Information propagated from [here](https://mysbupt.github.io), please visit Yunshan's homepage for more details about his research!)
