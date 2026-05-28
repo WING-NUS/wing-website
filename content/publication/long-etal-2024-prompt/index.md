@@ -7,7 +7,7 @@ authors:
 - Hannah Brown
 - yuxi
 - James Xu Zhao
-- Nancy F. Chen
+- nancy
 - Kenji Kawaguchi
 - Michael Shieh
 - Junxian He

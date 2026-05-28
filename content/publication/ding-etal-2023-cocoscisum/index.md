@@ -3,7 +3,7 @@ title: 'CocoSciSum: A Scientific Summarization Toolkit with Compositional Contro
 authors:
 - yixi
 - yanxia
-- Qian Liu
+- qian
 - min
 date: '2023-12-01'
 publishDate: '2024-07-06T02:22:24.596464Z'

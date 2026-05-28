@@ -7,9 +7,9 @@ authors:
 - trong
 - Anh Tuan Luu
 - Kenji Kawaguchi
-- Shafiq Joty
+- shafiq
 - min
-- Nancy F. Chen
+- nancy
 
 doi: ""
 

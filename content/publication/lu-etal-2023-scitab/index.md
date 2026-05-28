@@ -4,7 +4,7 @@ title: 'SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Ve
 authors:
 - xinyuan
 - liangming 
-- Qian Liu
+- qian
 - Preslav Nakov
 - min
 date: '2023-12-01'

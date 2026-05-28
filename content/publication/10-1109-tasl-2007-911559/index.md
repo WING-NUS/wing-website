@@ -2,7 +2,7 @@
 title: 'LyricAlly: Automatic Synchronization of Textual Lyrics to Acoustic Music Signals'
 authors:
 - min
-- Ye Wang
+- ywang
 - Denny Iskandar
 - Tin Lay New
 - Arun Shenoy

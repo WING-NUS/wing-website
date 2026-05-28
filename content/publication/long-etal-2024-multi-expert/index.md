@@ -7,7 +7,7 @@ authors:
 - Anh Tuan Luu
 - Kenji Kawaguchi
 - min
-- Nancy F. Chen
+- nancy
 
 doi: ""
 

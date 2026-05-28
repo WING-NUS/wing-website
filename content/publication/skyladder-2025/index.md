@@ -2,7 +2,7 @@
 title: 'SkyLadder: Better and Faster Pretraining via Context Window Scheduling'
 authors:
 - tongyao
-- Qian Liu
+- qian
 - Haonan Wang
 - Shiqi Chen
 - Xiangming Gu

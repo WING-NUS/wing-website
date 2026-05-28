@@ -6,7 +6,7 @@ authors:
   - yisong
   - Hongfu Liu
   - wenqianglei
-  - Nancy F. Chen
+  - nancy
   - min
 
 date: '2024-08-11T00:00:00Z'

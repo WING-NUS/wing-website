@@ -4,7 +4,7 @@ title: 'Beyond Memorization: The Challenge of Random Memory Access in Language M
 
 authors:
   - tongyao
-  - Qian Liu
+  - qian
   - Liang Pang
   - Zhengbao Jiang
   - min

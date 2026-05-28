@@ -3,7 +3,7 @@ title: Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base
   Encoding
 authors:
 - samson
-- Shafiq Joty
+- shafiq
 - Lav Varshney
 - min
 date: '2020-11-01'

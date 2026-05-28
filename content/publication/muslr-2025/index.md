@@ -6,7 +6,7 @@ authors:
 - Yuhui Zhang
 - liangming
 - Qijun Huang
-- Qian Liu
+- qian
 - Preslav Nakov
 - min
 - William Yang Wang
