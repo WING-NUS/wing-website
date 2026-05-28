@@ -5,7 +5,7 @@ authors:
 - long
 - duy
 - hai
-- Kenji Kawaguchi
+- kenji
 - nancy
 - shafiq
 - min

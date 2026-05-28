@@ -7,7 +7,7 @@ authors:
 - Tiviatis Sim
 - Hieu Dao
 - shafiq
-- Kenji Kawaguchi
+- kenji
 - nancy
 - min
 

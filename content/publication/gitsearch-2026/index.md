@@ -2,7 +2,7 @@
 title: 'GitSearch: Enhancing Community Notes Generation with Gap-Informed Targeted Search'
 authors:
 - sahajpreet
-- Kokil Jaidka
+- kokil
 - min
 date: '2026-02-09'
 publishDate: '2026-05-18T00:00:00Z'

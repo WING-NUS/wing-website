@@ -13,7 +13,7 @@ date: '2025-09-01'
 superuser: false
 
 # Role/position
-role: Sabbatical Visiting Professor
+role: Sabbatical Visiting Professor (2025-2026)
 
 # Organizations/Affiliations
 organizations:

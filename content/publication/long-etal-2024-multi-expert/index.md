@@ -5,7 +5,7 @@ authors:
 - long
 - Duong Ngoc Yen
 - Anh Tuan Luu
-- Kenji Kawaguchi
+- kenji
 - min
 - nancy
 
