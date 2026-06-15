@@ -13,7 +13,7 @@ date: '2026-04-01'
 superuser: false
 
 # Role/position
-role: "FYP Student (Aug '25) Thesis: When Models Edit Too Much: On the Fidelity of Minimal Code Edits<BR/> <font color=red><strong>OUR Prize Awardee</strong></font>""
+role: "FYP Student (Aug '25) Thesis: When Models Edit Too Much: On the Fidelity of Minimal Code Edits<BR/> <font color=red><strong>OUR Prize Awardee</strong></font>"
 
 # Organizations/Affiliations
 organizations:
