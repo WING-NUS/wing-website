@@ -13,7 +13,7 @@ date: '2026-04-01'
 superuser: false
 
 # Role/position
-role: "FYP Alumnus (Apr '26). Thesis: Evaluating and Enhancing Information Retrieval in Code Mixed Contexts"
+role: "FYP Alumnus (Apr '26). Thesis: Evaluating and Enhancing Information Retrieval in Code Mixed Contexts<BR/> <font color=red><strong>OCP Awardee</strong></font>""
 
 # Organizations/Affiliations
 organizations:
