@@ -20,3 +20,5 @@ The first day (13 July) focuses on the theme of **Social Intelligence**, featuri
 The second day (14 July) will center on the **Future of Work With AI Agents in Singapore**, featuring presentations by Diyi Yang and Min-Yen Kan, followed by extensive discussion sessions to finalize directions and next steps for the collaboration.
 
 Registration for the workshop closes on 6 July 2026. For more details and to register, visit the [CIVIC-AI workshop website](https://civic-ai-collaboration.github.io/).
+
+The workshop is made possible by the Singapore Global AI Visiting Professorship (AIVP), an initiative by the Ministry of Digital Development and Information to strengthen Singapore's AI research capabilities by attracting world-class expertise. Min-Yen Kan and Diyi Yang (Stanford University) are among [six NUS Computing faculty teams awarded AIVP grants](https://www.comp.nus.edu.sg/news/six-nus-computing-faculty-receive-grants-under-singapores-ai-visiting-professorship-aivp/), for their project "Evaluating and Building Socially Intelligent Foundation Models" — the research collaboration that underpins CIVIC-AI.
