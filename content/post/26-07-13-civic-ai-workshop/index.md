@@ -1,10 +1,10 @@
 ---
-title: "CIVIC-AI: Stanford and NUS Collaborate on the Future of AI and Work"
+title: "CIVIC-AI: Stanford's SALT Lab and WING.NUS Collaborate on Social Intelligence and the Future of AI and Work"
 date: 2026-06-22
 authors: [min]
 ---
 
-The inaugural CIVIC-AI workshop (13–14 July 2026) kicks off a major collaboration between Stanford University and NUS, bringing together researchers, policymakers, and funding agencies to examine the interplay between artificial intelligence, work, and society.
+The inaugural CIVIC-AI workshop (13–14 July 2026) kicks off a major collaboration between [Stanford's SALT Lab](https://saltlab.stanford.edu/) and [WING.NUS](https://wing.comp.nus.edu.sg/), bringing together researchers, policymakers, and funding agencies to examine the Social Intelligence of Foundation Models and the Future of AI and Work.
 
 <!--more-->
 
@@ -15,10 +15,10 @@ The event centers on three core questions:
 - **Future of Work & Automation:** Which professions and tasks are being automated away versus augmented, and who bears the costs of displacement?
 - **Human Advantage:** What constitutes irreducible human value when a large fraction of knowledge work can be automated, and how do we measure and support it?
 
-The first day (13 July) focuses on the theme of **Social Intelligence**, featuring invited talks by researchers such as Yohan Jo, Nancy F. Chen, and Lizi Liao, alongside lightning talks and a panel discussion. The highlight of the day will be a keynote by Diyi Yang from Stanford University on "Optimizing Human-AI Collaboration," which will introduce General User Models (GUMs) and Next Action Prediction (NAP) to foster proactive and meaningful human-AI interaction.
+The first day (13 July) focuses on the theme of **Social Intelligence**, featuring invited talks by researchers such as Yohan Jo, Nancy F. Chen, and Lizi Liao, alongside lightning talks and a panel discussion. The highlight of the day will be a keynote by Diyi Yang from Stanford's [SALT Lab](https://saltlab.stanford.edu/) on "Optimizing Human-AI Collaboration," which will introduce General User Models (GUMs) and Next Action Prediction (NAP) to foster proactive and meaningful human-AI interaction.
 
 The second day (14 July) will center on the **Future of Work With AI Agents in Singapore**, featuring presentations by Diyi Yang and Min-Yen Kan, followed by extensive discussion sessions to finalize directions and next steps for the collaboration.
 
 Registration for the workshop closes on 6 July 2026. For more details and to register, visit the [CIVIC-AI workshop website](https://civic-ai-collaboration.github.io/).
 
-The workshop is made possible by the Singapore Global AI Visiting Professorship (AIVP), an initiative by the Ministry of Digital Development and Information to strengthen Singapore's AI research capabilities by attracting world-class expertise. Min-Yen Kan and Diyi Yang (Stanford University) are among [six NUS Computing faculty teams awarded AIVP grants](https://www.comp.nus.edu.sg/news/six-nus-computing-faculty-receive-grants-under-singapores-ai-visiting-professorship-aivp/), for their project "Evaluating and Building Socially Intelligent Foundation Models" — the research collaboration that underpins CIVIC-AI.
+The workshop is made possible by the Singapore Global AI Visiting Professorship (AIVP), an initiative by the Ministry of Digital Development and Information to strengthen Singapore's AI research capabilities by attracting world-class expertise. Min-Yen Kan ([WING.NUS](https://wing.comp.nus.edu.sg/)) and Diyi Yang ([SALT Lab](https://saltlab.stanford.edu/), Stanford University) are among [six NUS Computing faculty teams awarded AIVP grants](https://www.comp.nus.edu.sg/news/six-nus-computing-faculty-receive-grants-under-singapores-ai-visiting-professorship-aivp/), for their project "Evaluating and Building Socially Intelligent Foundation Models" — the research collaboration that underpins CIVIC-AI.
