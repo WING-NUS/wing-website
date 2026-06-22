@@ -7,7 +7,7 @@ first_name: Kavindu
 last_name: Warnakulasuriya
 
 # Date for sorting
-date: '2026-06-16'
+date: '2025-08-02'
 
 # Is this the primary user of the site?
 superuser: false
