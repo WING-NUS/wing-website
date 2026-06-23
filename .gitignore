@@ -13,7 +13,4 @@ go.sum
 # Local Claude Code instructions (do not commit)
 CLAUDE.md
 
-# Local-only utility script (do not commit)
-alumni_avatar_restore.py
-
 .DS_Store
