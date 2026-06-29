@@ -70,4 +70,4 @@ user_groups:
 #  - Researchers
 ---
 
-Navindu is a first-year Ph.D. student under the supervision of Prof. Min-Yen Kan. His research interests primarily lie in Consolidation in Agent Memory Systems, AI Agents, and Large Language Models (LLMs) and Multi-Agent Systems. He has previously researched on normative reasoning capabilities in Multi-Agent Systems (MASs). Feel free to reach out to Navindu for discussions or potential collaborations.
+Navindu is a first-year Ph.D. student under the supervision of Prof. Min-Yen Kan. His research interests primarily include consolidation in agent memory systems, AI agents, large language models (LLMs), and multi-agent systems (MASs). Previously, he has conducted research on the normative reasoning capabilities of multi-agent systems. Feel free to reach out to Navindu for discussions or potential collaborations.
