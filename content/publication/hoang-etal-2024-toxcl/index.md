@@ -3,7 +3,7 @@ title: "ToXCL: A Unified Framework for Toxic Speech Detection and Explanation"
 subtitle: ""
 authors:
 - nhat
-- Do Xuan Long
+- long
 - Duc Anh Do
 - Duc Anh Vu
 - Anh Tuan Luu
