@@ -5,14 +5,30 @@ import argparse
 
 
 class IndexLinking:
-    def __init__(self, author_index_path, pub_dir):
+    def __init__(self, author_index_path, pub_dir, author_alias_path=None):
         self.author_index_path = author_index_path
         self.pub_dir = pub_dir
         # load the author_index_path
         with open(author_index_path, "r") as f:
             self.author_index = json.load(f)
+        # load hand-maintained name variants (see assets/author_aliases.json).
+        # author_index.json is regenerated from profile titles and holds one name
+        # per slug, so former/alternative published names have to live separately.
+        self.aliases = dict()
+        if author_alias_path and os.path.isfile(author_alias_path):
+            with open(author_alias_path, "r") as f:
+                for alias_name, slug in json.load(f).items():
+                    if alias_name.startswith('_'):
+                        continue
+                    if slug not in self.author_index:
+                        print(f"WARNING: alias '{alias_name}' points at unknown slug '{slug}'; ignoring")
+                        continue
+                    self.aliases[alias_name] = slug
 
     def author_linking(self, query_name):
+        # a hand-maintained alias wins over the generated index
+        if query_name in self.aliases:
+            return ['In Aliases', self.aliases[query_name]]
         # check if the author_id is in the author_index
         if query_name in self.author_index:
             return ['In Index', query_name]
@@ -101,8 +117,9 @@ class IndexLinking:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--author_index_path", type=str, default="assets/author_index.json")
+    parser.add_argument("--author_alias_path", type=str, default="assets/author_aliases.json")
     parser.add_argument("--pub_dir", type=str, default="content/publication")
     args = parser.parse_args()
 
-    index_linking = IndexLinking(args.author_index_path, args.pub_dir)
+    index_linking = IndexLinking(args.author_index_path, args.pub_dir, args.author_alias_path)
     index_linking.loop_pub_dir()
