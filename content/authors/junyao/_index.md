@@ -13,7 +13,7 @@ date: '2026-08-01'
 superuser: false
 
 # Role/position
-role: Masters Student (Aug '25) <br/> Co-Supervised by <a href="https://wing.comp.nus.edu.sg/author/shuicheng-yan/">Shuicheng Yan</a>
+role: Masters Student (Aug '25)
 
 # Organizations/Affiliations
 organizations:
