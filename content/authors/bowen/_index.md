@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qiao Bowen
+title: Bowen Qiao
 
 # Full Name (for SEO)
 first_name: Bowen

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Teh Wai Hong
+title: Wai Hong Teh
 
 # Full Name (for SEO)
 first_name: Wai Hong
