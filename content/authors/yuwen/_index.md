@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wang Yuwen
+title: Yuwen Wang
 
 # Full Name (for SEO)
 first_name: Yuwen
@@ -13,7 +13,7 @@ date: '2026-08-01'
 superuser: false
 
 # Role/position
-role: Masters Student (Jan '25)
+role: Masters Student (Aug '26)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Masters Student Jan 2025 Intake
+bio: Masters Student August 2026 Intake
 
 interests:
   - LLM Agents
@@ -32,7 +32,7 @@ education:
   courses:
     - course: MComp in Artificial Intelligence
       institution: National University of Singapore
-      year: 2025-Now
+      year: 2026-Now
     - course: Bachelor of Science, Data Science and Analytics
       institution: National University of Singapore
       year: 2020-2024

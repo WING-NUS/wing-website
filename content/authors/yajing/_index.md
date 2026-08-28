@@ -61,4 +61,4 @@ user_groups:
 #  - Researchers
 ---
 
-Yajing is currently a fifth year Ph.D candidate in the Industrial PhD Programme in School of Computing at National University of Singapore and Rio Tinto. She is currently the member of Web Information Retrieval / Natural Language Processing Group (WING) and uner supervision of associate professor Dr. Min-yen Kan. Her primary research interest lies in Natural Language Processing, with a specific focus on data-to-text generation and data narration.
+Yajing is currently a fifth-year Ph.D. candidate in the Industrial PhD Programme at the School of Computing, National University of Singapore, and Rio Tinto. She is a member of the Web Information Retrieval / Natural Language Processing Group (WING) and is supervised by Associate Professor Min-Yen Kan, with Kelvin Koa and Yunshan Ma as co-supervisors. Her primary research interest lies in Natural Language Processing, with a specific focus on data-to-text generation and data narration.
