@@ -13,7 +13,7 @@ date: '2026-01'
 superuser: false
 
 # Role/position
-role: UROP Student (Jan'26)
+role: UROP Student (Jan '26)
 
 # Organizations/Affiliations
 organizations:

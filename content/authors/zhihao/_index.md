@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhao Zhihao
+title: Zhihao Zhao
 
 # Full Name (for SEO)
 first_name: Zhihao
@@ -13,7 +13,7 @@ date: '2026-08'
 superuser: false
 
 # Role/position
-role: FYP Student (Aug'26)
+role: FYP Student (Aug '26)
 
 # Organizations/Affiliations
 organizations:
