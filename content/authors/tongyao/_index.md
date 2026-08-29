@@ -13,7 +13,7 @@ date: '2023-01'
 superuser: false
 
 # Role/position
-role: IPP Doctoral Student (Jan '23; SEA)
+role: IPP Doctoral Student (Jan '23; SEA)<BR/>Co-Supervised by <A HREF="https://wing.comp.nus.edu.sg/author/qian-liu/">Qian Liu</A>.
 
 # Organizations/Affiliations
 organizations:
