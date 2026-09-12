@@ -54,5 +54,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "https://yisong.me/publications/emnlp25-DC-Slides.pdf"
+url_slides: "https://yisong.me/publications/emnlp25-DC-Slides.pdf"
 ---
