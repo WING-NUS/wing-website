@@ -60,7 +60,7 @@ sections:
       user_groups:
           - Staff Alumni
           - Doctoral Alumni
-          - Master's Alumni
+          - Masters Alumni
           - Undergraduate / Intern Alumni
           - Secondary School Alumni
           - Past Collaborators
