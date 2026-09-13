@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Doctoral Students
 ---
 
 Kavindu is a first-year Ph.D. student under the supervision of Prof. Min-Yen Kan.  His research interests are rooted in Natural Language Processing (NLP), especially in low-resource NLP, Large Language Models (LLMs), and Neural Machine Translation (NMT) domains. His most recent research experience is as a research engineer on a Google-funded project on Neural Machine Translation (NMT) across Sinhala, Tamil, and English. He has also worked on a research project involving LLM agents to investigate their normative reasoning capabilities in Multi-Agent Systems (MASs) and is interested in the cultural alignment of LLMs. Feel free to reach out to Kavindu for discussions or potential collaborations.
