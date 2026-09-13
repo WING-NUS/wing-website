@@ -59,7 +59,8 @@ sections:
     content:
       user_groups:
           - Staff Alumni
-          - Graduate Alumni
+          - Doctoral Alumni
+          - Master's Alumni
           - Undergraduate / Intern Alumni
           - Secondary School Alumni
           - Past Collaborators
