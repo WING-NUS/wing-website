@@ -13,7 +13,7 @@ date: '2012-00'
 superuser: false
 
 # Role/position
-role: "FYP Alumnus (Spring '12)<BR/> Thesis: GPU based IR"
+role: "UROP/FYP Alumnus (Spring '12)<BR/> Thesis: GPU based IR"
 
 # Organizations/Affiliations
 organizations:

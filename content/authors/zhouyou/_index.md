@@ -13,7 +13,7 @@ date: '2017-00'
 superuser: false
 
 # Role/position
-role: "FYP Alumnus (Fall '17)<BR/> Thesis: Mooder Sentiment Analysis using Deep Sequential Model; Project: #mytweet via Instagram: Exploring User Behavior Across Multiple Online Social Networks"
+role: "UROP/FYP Alumnus (Fall '17)<BR/> Thesis: Mooder Sentiment Analysis using Deep Sequential Model; Project: #mytweet via Instagram: Exploring User Behavior Across Multiple Online Social Networks"
 
 # Organizations/Affiliations
 organizations:

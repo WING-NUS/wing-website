@@ -13,7 +13,7 @@ date: '2004-00'
 superuser: false
 
 # Role/position
-role: "Internship Alumnus (Spring '04)<BR/> Project: Support for annotation of scientific papers"
+role: "FYP Alumnus (Spring '04)<BR/> Project: Support for annotation of scientific papers"
 
 # Organizations/Affiliations
 organizations:

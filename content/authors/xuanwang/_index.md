@@ -13,7 +13,7 @@ date: '2007-00'
 superuser: false
 
 # Role/position
-role: "Internship Alumnus ('07)<BR/> Project: Publication spider, Blog Summarization"
+role: "FYP Alumnus ('07)<BR/> Project: Publication spider, Blog Summarization"
 
 # Organizations/Affiliations
 organizations:

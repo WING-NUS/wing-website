@@ -13,7 +13,7 @@ date: '2005-00'
 superuser: false
 
 # Role/position
-role: "Internship Alumnus ('05)<BR/> Project: Public-domain research corpora gatherer, Academic Research Repository"
+role: "FYP Alumnus ('05)<BR/> Project: Public-domain research corpora gatherer, Academic Research Repository"
 
 # Organizations/Affiliations
 organizations:

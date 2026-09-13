@@ -13,7 +13,7 @@ date: '2006-00'
 superuser: false
 
 # Role/position
-role: "UROP and FYP Alumnus (Fall '06). Theses: Spelling correction for LINC and LINC restrictive query identification and processing"
+role: "UROP/FYP Alumnus (Fall '06). Theses: Spelling correction for LINC and LINC restrictive query identification and processing"
 
 # Organizations/Affiliations
 organizations:

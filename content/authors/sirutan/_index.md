@@ -13,7 +13,7 @@ date: '2004-00'
 superuser: false
 
 # Role/position
-role: "Internship Alumnus (Spring '04)<BR/> Project: Morphology query suggestion in LINC"
+role: "FYP Alumnus (Spring '04)<BR/> Project: Morphology query suggestion in LINC"
 
 # Organizations/Affiliations
 organizations:
