@@ -28,7 +28,7 @@ sections:
       user_groups:
           - Principal Investigator / Research Fellows / Staff
           - Doctoral Students
-          - Master's Students
+          - Masters Students
           - Undergraduate Students
           - Visitors / Interns
           - Faculty Collaborators

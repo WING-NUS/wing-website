@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master's Students
+  - Masters Students
 ---
 
 Yuwen is a Master of Computing student in Artificial Intelligence, working under the supervision of Prof. Min-Yen Kan alongside PhD student Tongyao Zhu. Her research interest is retrieval for memory in LLM agents.

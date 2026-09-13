@@ -7,7 +7,7 @@ first_name: Jia Yu
 last_name: Lim
 
 # Date for sorting
-date: '2026-09'
+date: '2026-08-01'
 
 # Is this the primary user of the site?
 superuser: false
