@@ -13,7 +13,7 @@ date: '2010-00'
 superuser: false
 
 # Role/position
-role: "Internship Alumnus (Summer '10)<BR/> Project: Firefox, iPhone, Facebook hacking project"
+role: "CSIDM Alumnus (Summer '10)<BR/> Project: Firefox, iPhone, Facebook hacking project"
 
 # Organizations/Affiliations
 organizations:

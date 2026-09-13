@@ -13,7 +13,7 @@ date: '2008-00'
 superuser: false
 
 # Role/position
-role: "FYP Alumnus ('08)<BR/> Project: Lyric Alignment"
+role: "FYP Alumnus ('08)<BR/> Project: Lyric Alignment<BR/> <font color=red><strong>DSTA Prize for Best Computing Project</strong></font>"
 
 # Organizations/Affiliations
 organizations:
