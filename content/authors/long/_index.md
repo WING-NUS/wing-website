@@ -13,7 +13,7 @@ date: '2023-08'
 superuser: false
 
 # Role/position
-role: A*STAR Doctoral Student (Aug '23) <br/> Co-Supervised by <a href="https://ml.comp.nus.edu.sg/kawaguchi">Kenji Kawaguchi</a> and <a href="https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen">Nancy F. Chen</a>
+role: A*STAR Doctoral Student (Aug '23) <br/> Co-Supervised by <a href="https://ml.comp.nus.edu.sg/kawaguchi">Kenji Kawaguchi</a> and <a href="https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen">Nancy F. Chen</a><BR/> <font color=red><strong>Research Achievement Award (RAA, '24); Dean's Graduate Research Excellence Award (DGA, '26)</strong></font>
 
 # Organizations/Affiliations
 organizations:

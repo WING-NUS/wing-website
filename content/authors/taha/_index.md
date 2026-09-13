@@ -13,7 +13,7 @@ date: '2024-00'
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus ('24). Thesis: Task-Oriented Dialogue Understanding and Evaluation using Minimal Data."
+role: "Doctoral Alumnus ('24). Thesis: Task-Oriented Dialogue Understanding and Evaluation using Minimal Data.<BR/> <font color=red><strong>Dean's Graduate Research Excellence Award (DGA, '24)</strong></font>"
 
 # Organizations/Affiliations
 organizations:

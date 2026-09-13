@@ -13,7 +13,7 @@ date: '2021-01'
 superuser: false
 
 # Role/position
-role: Doctoral Student (Jan '21)
+role: Doctoral Student (Jan '21)<BR/> <font color=red><strong>Research Achievement Award (RAA, '24)</strong></font>
 
 # Organizations/Affiliations
 organizations:

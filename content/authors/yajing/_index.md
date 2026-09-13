@@ -13,7 +13,7 @@ date: '2020-08'
 superuser: false
 
 # Role/position
-role: IPP Doctoral Student (Aug '20)<BR/>Co-Supervised by <a href="https://wing.comp.nus.edu.sg/author/kelvin-koa/">Kelvin Koa</a> and <a href="https://wing.comp.nus.edu.sg/author/yunshan-ma/">Yunshan Ma</a>
+role: IPP Doctoral Student (Aug '20)<BR/>Co-Supervised by <a href="https://wing.comp.nus.edu.sg/author/kelvin-koa/">Kelvin Koa</a> and <a href="https://wing.comp.nus.edu.sg/author/yunshan-ma/">Yunshan Ma</a><BR/> <font color=red><strong>Research Achievement Award (RAA, '25)</strong></font>
 
 # Organizations/Affiliations
 organizations:
