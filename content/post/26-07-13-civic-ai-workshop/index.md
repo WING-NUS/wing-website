@@ -1,7 +1,7 @@
 ---
 title: "CIVIC-AI: Stanford's SALT Lab and WING.NUS Collaborate on Social Intelligence and the Future of AI and Work"
 date: 2026-06-22
-authors: [min]
+authors: [min, yisong, minzhi, jiaying, yajing, nancy]
 ---
 
 The inaugural CIVIC-AI workshop (13–14 July 2026) kicks off a major collaboration between [Stanford's SALT Lab](https://saltlab.stanford.edu/) and [WING.NUS](https://wing.comp.nus.edu.sg/), bringing together researchers, policymakers, and funding agencies to examine the Social Intelligence of Foundation Models and the Future of AI and Work.

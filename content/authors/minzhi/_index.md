@@ -7,13 +7,13 @@ first_name: Minzhi (Ella)
 last_name: Li
 
 # Date for sorting
-date: '2022-08'
+date: '2026-08'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: A*STAR Doctoral Student (Aug '22) <br/> Co-Supervised by <a href="https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen">Nancy F. Chen</a> and <a href="https://raihanjoty.github.io/index.html">Shafiq Joty</a>
+role: A*STAR Doctoral Alumna (Aug '26). Thesis: Towards Language Technology Evaluation Grounded in Human Judgment. <br/> Co-Supervised by <a href="https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen">Nancy F. Chen</a> and <a href="https://raihanjoty.github.io/index.html">Shafiq Joty</a>
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate August 2022 Intake
+bio: PhD Alumna August 2026
 
 interests:
   - Socially Aware NLP Systems
@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: National University of Singapore
-      year: 2022-Now
+      year: 2022-2026
     - course: Bachelor of Science, Business Analytics
       institution: National University of Singapore
       year: 2018-2022
@@ -72,4 +72,4 @@ user_groups:
 #  - Researchers
 ---
 
-Minzhi (Ella) is a third-year PhD student under the supervision of Prof. Min-Yen Kan, Dr. Nancy F Chen, and Prof. Shafiq Joty. She also collaborates closely with Prof. Diyi Yang. She is working on evaluation of social intelligence in NLP systems. Her works have contributed taxonomy ([Social AI Data Infrastructure](https://arxiv.org/abs/2403.14659)), datasets ([Positive Reframing](https://arxiv.org/abs/2204.02952)), and data-efficient methods ([CoAnnotating](https://aclanthology.org/2023.emnlp-main.92/), [Decompose-and-Aggregate](https://arxiv.org/abs/2405.15329)) to evaluate language models' social intelligence levels.
+Minzhi (Ella) completed her PhD in August 2026 under the supervision of Prof. Min-Yen Kan, Dr. Nancy F. Chen, and Prof. Shafiq Joty. She also collaborated closely with Prof. Diyi Yang. Her research focused on evaluating social intelligence in NLP systems. Her work contributed taxonomy ([Social AI Data Infrastructure](https://arxiv.org/abs/2403.14659)), datasets ([Positive Reframing](https://arxiv.org/abs/2204.02952)), and data-efficient methods ([CoAnnotating](https://aclanthology.org/2023.emnlp-main.92/), [Decompose-and-Aggregate](https://arxiv.org/abs/2405.15329)) for evaluating language models' social intelligence.
