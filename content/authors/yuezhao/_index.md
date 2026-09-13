@@ -13,7 +13,7 @@ date: '2014-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '14)
+role: "FYP Alumnus (Fall '14)<BR/> Project: Crowd.Motoring; Thesis: Second Language Learning via Parallel News Websites"
 
 # Organizations/Affiliations
 organizations:

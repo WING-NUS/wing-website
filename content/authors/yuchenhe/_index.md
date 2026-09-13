@@ -13,7 +13,7 @@ date: ''
 superuser: false
 
 # Role/position
-role: UROP/FYP Alumnus
+role: "UROP/FYP Alumnus<BR/> Thesis: Topics in MOOC Forums"
 
 # Organizations/Affiliations
 organizations:

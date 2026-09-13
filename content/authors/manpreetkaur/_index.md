@@ -13,7 +13,7 @@ date: '2016-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '16)
+role: "Internship Alumnus (Fall '16)<BR/> Project: Neural Citation Parsing"
 
 # Organizations/Affiliations
 organizations:

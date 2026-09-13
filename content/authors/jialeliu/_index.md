@@ -13,7 +13,7 @@ date: '2015-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '15)
+role: "FYP Alumnus (Fall '15)<BR/> Thesis: Recommendation for e-Books"
 
 # Organizations/Affiliations
 organizations:

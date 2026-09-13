@@ -13,7 +13,7 @@ date: '2010-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Summer '10)
+role: "FYP Alumnus (Summer '10)<BR/> Project: Firefox DiCE translator"
 
 # Organizations/Affiliations
 organizations:

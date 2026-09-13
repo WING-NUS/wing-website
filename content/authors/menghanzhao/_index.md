@@ -13,7 +13,7 @@ date: '2015-00'
 superuser: false
 
 # Role/position
-role: UROP Alumnus (Fall '15)
+role: "UROP Alumnus (Fall '15)<BR/> Project: Price Correlation in E-commerce Recommendation"
 
 # Organizations/Affiliations
 organizations:

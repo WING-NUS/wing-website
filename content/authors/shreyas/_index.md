@@ -13,7 +13,7 @@ date: '2020-08'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '20)
+role: "FYP Alumnus (Aug '20)<BR/> Thesis: Word Sense Disambiguation: A Co-operative Game Theoretic Approach"
 
 # Organizations/Affiliations
 organizations:

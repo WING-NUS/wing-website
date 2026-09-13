@@ -13,7 +13,7 @@ date: '2019-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '19), UROP Alumnus (Fall '18)
+role: "FYP Alumnus (Fall '19), UROP Alumnus (Fall '18)<BR/> Thesis: Fake News Detection with Graph Representation; Projects: Drug Side Effect Prediction: User Analysis in Online Health Communities; Drug Side Effect Prediction"
 
 # Organizations/Affiliations
 organizations:

@@ -13,7 +13,7 @@ date: '2009-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Spring '09)
+role: "Internship Alumnus (Spring '09)<BR/> Project: Open source Ruby Recommendation System"
 
 # Organizations/Affiliations
 organizations:

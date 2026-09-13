@@ -13,7 +13,7 @@ date: '2016-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '16), Research Assistant ('17)
+role: "FYP Alumnus (Fall '16), Research Assistant ('17)<BR/> Theses: Emergent research trends detection using key authors and phrases; (Future) Trends in Science via Big Data: Topical analyses of computer science research from the ACM"
 
 # Organizations/Affiliations
 organizations:

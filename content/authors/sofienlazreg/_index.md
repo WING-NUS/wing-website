@@ -13,7 +13,7 @@ date: '2011-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '11)
+role: "Internship Alumnus (Fall '11)<BR/> Project: Text Mining Scholarly Software Systematic Literature Reviews"
 
 # Organizations/Affiliations
 organizations:

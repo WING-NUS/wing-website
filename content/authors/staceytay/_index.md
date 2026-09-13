@@ -13,7 +13,7 @@ date: '2014-00'
 superuser: false
 
 # Role/position
-role: UROP Alumnus (Fall '14)
+role: "UROP Alumnus (Fall '14)<BR/> Project: Discourse Parsing"
 
 # Organizations/Affiliations
 organizations:

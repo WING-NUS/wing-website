@@ -13,7 +13,7 @@ date: '2019-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '19)
+role: "FYP Alumnus (Fall '19)<BR/> Thesis: Zero-Shot Citation Text Classification"
 
 # Organizations/Affiliations
 organizations:

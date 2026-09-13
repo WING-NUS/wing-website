@@ -13,7 +13,7 @@ date: '2012-00'
 superuser: false
 
 # Role/position
-role: UROP Alumnus (Spring '12)
+role: "UROP Alumnus (Spring '12)<BR/> Project: Citation Function Classification"
 
 # Organizations/Affiliations
 organizations:

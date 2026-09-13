@@ -13,7 +13,7 @@ date: '2014-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '14)
+role: "FYP Alumnus (Fall '14)<BR/> Thesis: Data Fusion of Consumer Behavior Datasets using Social Media"
 
 # Organizations/Affiliations
 organizations:

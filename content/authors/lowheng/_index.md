@@ -13,7 +13,7 @@ date: '2012-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Spring '12)
+role: "FYP Alumnus (Spring '12)<BR/> Projects: Firefox, iPhone, Facebook hacking project; CSIDM Word Sense Disambiguation; Thesis: Citation Provenance"
 
 # Organizations/Affiliations
 organizations:

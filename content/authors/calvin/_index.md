@@ -13,7 +13,7 @@ date: '2019-08'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '19)
+role: "FYP Alumnus (Aug '19)<BR/> Thesis: Instructor Reintervention Prediction in Discussion Forums"
 
 # Organizations/Affiliations
 organizations:

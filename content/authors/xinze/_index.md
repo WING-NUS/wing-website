@@ -13,7 +13,7 @@ date: '2020-08'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '20)
+role: "FYP Alumnus (Aug '20)<BR/> Thesis: Mining Service Contributions from Call For Paper Websites"
 
 # Organizations/Affiliations
 organizations:

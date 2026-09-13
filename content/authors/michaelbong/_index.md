@@ -13,7 +13,7 @@ date: '2014-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Spring '14)
+role: "FYP Alumnus (Spring '14)<BR/> Thesis: Enhancing Google Scholar"
 
 # Organizations/Affiliations
 organizations:

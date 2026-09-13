@@ -13,7 +13,7 @@ date: '2018-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Spring '18)
+role: "Internship Alumnus (Spring '18)<BR/> Project: NUS MOOC Corpus, Crowdsourcing annotations to study instructor intervention"
 
 # Organizations/Affiliations
 organizations:

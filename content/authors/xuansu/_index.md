@@ -13,7 +13,7 @@ date: '2016-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '16)
+role: "FYP Alumnus (Fall '16)<BR/> Project: Citation Networks in the Political Sciences; Thesis: Citation Function and Provenance"
 
 # Organizations/Affiliations
 organizations:

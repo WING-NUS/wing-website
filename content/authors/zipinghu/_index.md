@@ -13,7 +13,7 @@ date: '2019-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Spring '19)
+role: "Internship Alumnus (Spring '19)<BR/> Project: Citation Context and Provenance Scope Detection"
 
 # Organizations/Affiliations
 organizations:

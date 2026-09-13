@@ -13,7 +13,7 @@ date: '2020-08'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '20)
+role: "FYP Alumnus (Aug '20)<BR/> Thesis: Neural Sign Language Translation"
 
 # Organizations/Affiliations
 organizations:

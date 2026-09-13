@@ -13,7 +13,7 @@ date: '2018-00'
 superuser: false
 
 # Role/position
-role: UROP Alumnus (Spring '18)
+role: "UROP Alumnus (Spring '18)<BR/> Project: Trend Detection in Scientific Publications"
 
 # Organizations/Affiliations
 organizations:

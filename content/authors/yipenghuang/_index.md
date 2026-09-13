@@ -13,7 +13,7 @@ date: '2010-00'
 superuser: false
 
 # Role/position
-role: UROP Alumnus (Fall '10)
+role: "UROP Alumnus (Fall '10)<BR/> Project: Hadoop-based Data Deduplication"
 
 # Organizations/Affiliations
 organizations:

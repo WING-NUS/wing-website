@@ -13,7 +13,7 @@ date: '2007-00'
 superuser: false
 
 # Role/position
-role: Research Assistant ('07)
+role: "Research Assistant ('07)<BR/> Project: Undergraduate Research Assistant, ForeCite project"
 
 # Organizations/Affiliations
 organizations:

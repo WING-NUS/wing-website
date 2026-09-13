@@ -13,7 +13,7 @@ date: '2015-00'
 superuser: false
 
 # Role/position
-role: UROP Alumnus (Fall '15)
+role: "UROP Alumnus (Fall '15)<BR/> Project: #mytweet via Instagram: Exploring User Behavior Across Multiple Online Social Networks"
 
 # Organizations/Affiliations
 organizations:

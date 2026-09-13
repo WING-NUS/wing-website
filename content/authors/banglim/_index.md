@@ -13,7 +13,7 @@ date: '2014-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '14)
+role: "FYP Alumnus (Fall '14)<BR/> Thesis: Cross-Posting in Social Networks"
 
 # Organizations/Affiliations
 organizations:
