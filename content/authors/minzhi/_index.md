@@ -13,7 +13,7 @@ date: '2026-08'
 superuser: false
 
 # Role/position
-role: A*STAR Doctoral Alumna (Aug '26). Thesis: Towards Language Technology Evaluation Grounded in Human Judgment. <br/> Co-Supervised by <a href="https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen">Nancy F. Chen</a> and <a href="https://raihanjoty.github.io/index.html">Shafiq Joty</a>
+role: "A*STAR Doctoral Alumnus (Aug '26). Thesis: Towards Language Technology Evaluation Grounded in Human Judgment. <br/> Co-Supervised by <a href=\"https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen\">Nancy F. Chen</a> and <a href=\"https://raihanjoty.github.io/index.html\">Shafiq Joty</a>"
 
 # Organizations/Affiliations
 organizations:
