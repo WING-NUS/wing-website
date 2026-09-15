@@ -21,7 +21,7 @@ projects: ["discourse"]
 # Is this a featured talk? (true/false)
 featured: true
 
-summary: "Yisong Presentes CAPRI at NUS SRI Seminar"
+summary: "Yisong Presents CAPRI at NUS SRI Seminar"
 
 image:
   caption: "Yisong Miao presenting the CAPRI dataset and the team’s paper at the seminar."
