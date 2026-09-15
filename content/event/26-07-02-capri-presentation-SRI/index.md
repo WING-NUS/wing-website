@@ -44,4 +44,4 @@ On the afternoon of 2 July 2026, NUS SoC held the 2026 edition of its Summer Res
 _Below is a gallery of the seminar photo_
 
 Yisong with the 2026 cohort of NUS SRI interns after the seminar:
-![Yisong with the 2026 cohort of NUS SRI ](CAPRI-photo-NUS.jpeg)
+![Yisong with the 2026 cohort of NUS SRI ](CAPRI-photo-with-SRI.png)
