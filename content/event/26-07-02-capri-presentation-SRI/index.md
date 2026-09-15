@@ -38,7 +38,7 @@ On the afternoon of 2 July 2026, NUS SoC held the 2026 edition of its Summer Res
 
 **Prof. Vered Shwartz** said: “I'm really excited about this benchmark. Most of the existing work in cultural competence focuses on testing LLMs on their cultural knowledge. Our benchmark allows us to test whether LLMs can also recognize cultural context and apply this knowledge in context. I hope our work will inform future model design. At a personal level, it was a pleasure working with Yisong and Jian on this project. Yisong was always so methodological, organized, and energetic, even though our virtual meetings were happening at 1 am Singapore time. I hope to meet him in person soon!”
 
-**Links:** [Earlier News](https://wing.comp.nus.edu.sg/post/25-12-08-yisong-vector/) featuring Yisong as a Vector Institute research intern, [the project](https://wing.comp.nus.edu.sg/publication/miao-zhu-shwartz-2026-capri/) indexed at our website. 
+**Links:** [Earlier news](https://wing.comp.nus.edu.sg/post/25-12-08-yisong-vector/) featuring Yisong as a Vector Institute research intern; [The project](https://wing.comp.nus.edu.sg/publication/miao-zhu-shwartz-2026-capri/) indexed at our website. 
 
 
 _Below is a gallery of the seminar photo_
