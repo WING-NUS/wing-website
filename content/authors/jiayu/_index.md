@@ -13,7 +13,7 @@ date: '2026-08-01'
 superuser: false
 
 # Role/position
-role: Doctoral Student (Aug '26)<BR/>Co-Supervised by <a href="https://cde.nus.edu.sg/ece/staff/robby-tantowi-tan//">Robby Tantowi</a>
+role: Doctoral Student (Aug '26)<BR/>Co-Supervised by <a href="https://cde.nus.edu.sg/ece/staff/robby-tantowi-tan//">Robby Tantowi Tan</a>
 
 # Organizations/Affiliations
 organizations:
